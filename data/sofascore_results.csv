@@ -1,0 +1,1445 @@
+event_id,team,team_id,score_for,score_against,win,draw,loose,local
+11972388,Agropecuario,265787,1,0,True,False,False,Home
+11972388,Patronato,43741,0,1,False,False,True,Away
+11972394,Mitre,255425,1,0,True,False,False,Home
+11972394,San Telmo,213361,0,1,False,False,True,Away
+11972389,All Boys,36834,1,0,True,False,False,Home
+11972389,Tristán Suárez,93513,0,1,False,False,True,Away
+11972383,Chacarita Jrs.,3214,2,0,True,False,False,Home
+11972383,Deportivo Maipú,213042,0,2,False,False,True,Away
+11972390,Dep. Morón,93109,3,0,True,False,False,Home
+11972390,Brown de Adrogué,107201,0,3,False,False,True,Away
+11972382,Estudiantes B.A.,93107,1,0,True,False,False,Home
+11972382,Ferro Carril Oeste,36841,0,1,False,False,True,Away
+11972381,Talleres R.E.,201162,0,0,False,True,False,Home
+11972381,San Miguel,264945,0,0,False,True,False,Away
+11972399,Quilmes,4936,2,0,True,False,False,Home
+11972399,Temperley,112499,0,2,False,False,True,Away
+11972391,Nueva Chicago,3200,1,0,True,False,False,Home
+11972391,Almagro,4938,0,1,False,False,True,Away
+11972395,Aldosivi,36836,0,1,False,False,True,Home
+11972395,Atlético Rafaela,34976,1,0,True,False,False,Away
+11972384,SM Tucumán,23950,1,0,True,False,False,Home
+11972384,Gimnasia J.,5292,0,1,False,False,True,Away
+11972397,Colón,3207,2,1,True,False,False,Home
+11972397,Def. Unidos,93515,1,2,False,False,True,Away
+11972398,Almirante Brown,43740,0,1,False,False,True,Home
+11972398,Atlanta,53799,1,0,True,False,False,Away
+11972385,Arsenal,3221,1,1,False,True,False,Home
+11972385,Güemes,224646,1,1,False,True,False,Away
+11972393,Gimnasia y Tiro,222126,2,0,True,False,False,Home
+11972393,Chaco For Ever,252726,0,2,False,False,True,Away
+11972387,Guillermo Brown,53801,1,1,False,True,False,Home
+11972387,Racing de Córdoba,273657,1,1,False,True,False,Away
+11972386,San Martín,7772,1,0,True,False,False,Home
+11972386,Alvarado,273715,0,1,False,False,True,Away
+11972392,Gimnasia Mendoza,188441,0,1,False,False,True,Home
+11972392,Defensores,52215,1,0,True,False,False,Away
+11972396,Estudiantes R.C.,266694,1,0,True,False,False,Home
+11972396,Deportivo Madryn,222120,0,1,False,False,True,Away
+11972406,Ferro Carril Oeste,36841,0,2,False,False,True,Home
+11972406,Chacarita Jrs.,3214,2,0,True,False,False,Away
+11972416,Almagro,4938,2,1,True,False,False,Home
+11972416,Dep. Morón,93109,1,2,False,False,True,Away
+11972411,Deportivo Madryn,222120,0,2,False,False,True,Home
+11972411,Aldosivi,36836,2,0,True,False,False,Away
+11972408,Quilmes,4936,0,0,False,True,False,Home
+11972408,Talleres R.E.,201162,0,0,False,True,False,Away
+11972407,San Miguel,264945,0,0,False,True,False,Home
+11972407,Estudiantes B.A.,93107,0,0,False,True,False,Away
+11972413,San Telmo,213361,1,1,False,True,False,Home
+11972413,Gimnasia y Tiro,222126,1,1,False,True,False,Away
+11972418,Almirante Brown,43740,1,2,False,False,True,Home
+11972418,Tristán Suárez,93513,2,1,True,False,False,Away
+11972417,Brown de Adrogué,107201,2,2,False,True,False,Home
+11972417,Temperley,112499,2,2,False,True,False,Away
+11972409,Atlanta,53799,0,0,False,True,False,Home
+11972409,Colón,3207,0,0,False,True,False,Away
+11972415,Defensores,52215,1,0,True,False,False,Home
+11972415,Nueva Chicago,3200,0,1,False,False,True,Away
+11972410,Def. Unidos,93515,1,0,True,False,False,Home
+11972410,Estudiantes R.C.,266694,0,1,False,False,True,Away
+11972404,Gimnasia J.,5292,1,0,True,False,False,Home
+11972404,Arsenal,3221,0,1,False,False,True,Away
+11972403,Güemes,224646,1,0,True,False,False,Home
+11972403,San Martín,7772,0,1,False,False,True,Away
+11972405,Deportivo Maipú,213042,0,2,False,False,True,Home
+11972405,SM Tucumán,23950,2,0,True,False,False,Away
+11972414,Chaco For Ever,252726,1,1,False,True,False,Home
+11972414,Gimnasia Mendoza,188441,1,1,False,True,False,Away
+11972401,Racing de Córdoba,273657,1,3,False,False,True,Home
+11972401,Agropecuario,265787,3,1,True,False,False,Away
+11972402,Alvarado,273715,2,1,True,False,False,Home
+11972402,Guillermo Brown,53801,1,2,False,False,True,Away
+11972400,Patronato,43741,0,0,False,True,False,Home
+11972400,All Boys,36834,0,0,False,True,False,Away
+12050497,Atlético Rafaela,34976,0,0,False,True,False,Home
+12050497,Mitre,255425,0,0,False,True,False,Away
+11972420,Chacarita Jrs.,3214,1,1,False,True,False,Home
+11972420,San Miguel,264945,1,1,False,True,False,Away
+11972428,Temperley,112499,4,1,True,False,False,Home
+11972428,Almagro,4938,1,4,False,False,True,Away
+11972427,Tristán Suárez,93513,0,1,False,False,True,Home
+11972427,Patronato,43741,1,0,True,False,False,Away
+11972419,Estudiantes B.A.,93107,1,2,False,False,True,Home
+11972419,Quilmes,4936,2,1,True,False,False,Away
+11972437,Talleres R.E.,201162,2,0,True,False,False,Home
+11972437,Brown de Adrogué,107201,0,2,False,False,True,Away
+11972434,Aldosivi,36836,1,0,True,False,False,Home
+11972434,Def. Unidos,93515,0,1,False,False,True,Away
+11972425,Agropecuario,265787,1,1,False,True,False,Home
+11972425,Alvarado,273715,1,1,False,True,False,Away
+11972429,Dep. Morón,93109,0,4,False,False,True,Home
+11972429,Defensores,52215,4,0,True,False,False,Away
+11972422,Arsenal,3221,2,0,True,False,False,Home
+11972422,Deportivo Maipú,213042,0,2,False,False,True,Away
+11972432,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972432,Atlético Rafaela,34976,0,1,False,False,True,Away
+11972424,Guillermo Brown,53801,1,0,True,False,False,Home
+11972424,Güemes,224646,0,1,False,False,True,Away
+11972421,SM Tucumán,23950,1,2,False,False,True,Home
+11972421,Ferro Carril Oeste,36841,2,1,True,False,False,Away
+11972433,Mitre,255425,1,0,True,False,False,Home
+11972433,Deportivo Madryn,222120,0,1,False,False,True,Away
+11972423,San Martín,7772,2,1,True,False,False,Home
+11972423,Gimnasia J.,5292,1,2,False,False,True,Away
+11972435,Estudiantes R.C.,266694,1,2,False,False,True,Home
+11972435,Atlanta,53799,2,1,True,False,False,Away
+11972436,Colón,3207,2,1,True,False,False,Home
+11972436,Almirante Brown,43740,1,2,False,False,True,Away
+12052517,All Boys,36834,0,0,False,True,False,Home
+12052517,Racing de Córdoba,273657,0,0,False,True,False,Away
+11972431,Gimnasia Mendoza,188441,1,1,False,True,False,Home
+11972431,San Telmo,213361,1,1,False,True,False,Away
+11972430,Nueva Chicago,3200,2,0,True,False,False,Home
+11972430,Chaco For Ever,252726,0,2,False,False,True,Away
+11972446,Talleres R.E.,201162,0,1,False,False,True,Home
+11972446,Estudiantes B.A.,93107,1,0,True,False,False,Away
+11972454,Defensores,52215,0,0,False,True,False,Home
+11972454,Temperley,112499,0,0,False,True,False,Away
+11972455,Almagro,4938,0,0,False,True,False,Home
+11972455,Brown de Adrogué,107201,0,0,False,True,False,Away
+11972449,Def. Unidos,93515,0,0,False,True,False,Home
+11972449,Mitre,255425,0,0,False,True,False,Away
+11972450,Deportivo Madryn,222120,0,0,False,True,False,Home
+11972450,Gimnasia y Tiro,222126,0,0,False,True,False,Away
+11972442,Deportivo Maipú,213042,0,2,False,False,True,Home
+11972442,San Martín,7772,2,0,True,False,False,Away
+11972443,Ferro Carril Oeste,36841,1,1,False,True,False,Home
+11972443,Arsenal,3221,1,1,False,True,False,Away
+11972441,Gimnasia J.,5292,1,0,True,False,False,Home
+11972441,Guillermo Brown,53801,0,1,False,False,True,Away
+11972440,Güemes,224646,1,1,False,True,False,Home
+11972440,Agropecuario,265787,1,1,False,True,False,Away
+11972452,San Telmo,213361,1,0,True,False,False,Home
+11972452,Nueva Chicago,3200,0,1,False,False,True,Away
+11972438,Racing de Córdoba,273657,1,1,False,True,False,Home
+11972438,Tristán Suárez,93513,1,1,False,True,False,Away
+11972453,Chaco For Ever,252726,0,2,False,False,True,Home
+11972453,Dep. Morón,93109,2,0,True,False,False,Away
+11972439,Alvarado,273715,1,0,True,False,False,Home
+11972439,All Boys,36834,0,1,False,False,True,Away
+11972451,Atlético Rafaela,34976,4,1,True,False,False,Home
+11972451,Gimnasia Mendoza,188441,1,4,False,False,True,Away
+11972456,Colón,3207,4,0,True,False,False,Home
+11972456,Patronato,43741,0,4,False,False,True,Away
+11972445,Quilmes,4936,1,0,True,False,False,Home
+11972445,Chacarita Jrs.,3214,0,1,False,False,True,Away
+11972444,San Miguel,264945,1,0,True,False,False,Home
+11972444,SM Tucumán,23950,0,1,False,False,True,Away
+12074926,Atlanta,53799,0,2,False,False,True,Home
+12074926,Aldosivi,36836,2,0,True,False,False,Away
+12239239,Almirante Brown,43740,0,3,False,False,True,Home
+12239239,Estudiantes R.C.,266694,3,0,True,False,False,Away
+11972469,Nueva Chicago,3200,2,0,True,False,False,Home
+11972469,Atlético Rafaela,34976,0,2,False,False,True,Away
+11972462,Agropecuario,265787,1,2,False,False,True,Home
+11972462,Gimnasia J.,5292,2,1,True,False,False,Away
+11972463,All Boys,36834,0,0,False,True,False,Home
+11972463,Güemes,224646,0,0,False,True,False,Away
+11972475,Estudiantes B.A.,93107,1,1,False,True,False,Home
+11972475,Almagro,4938,1,1,False,True,False,Away
+11972464,Tristán Suárez,93513,2,2,False,True,False,Home
+11972464,Alvarado,273715,2,2,False,True,False,Away
+11972466,Brown de Adrogué,107201,0,3,False,False,True,Home
+11972466,Defensores,52215,3,0,True,False,False,Away
+11972473,Aldosivi,36836,0,0,False,True,False,Home
+11972473,Almirante Brown,43740,0,0,False,True,False,Away
+11972459,Arsenal,3221,1,0,True,False,False,Home
+11972459,San Miguel,264945,0,1,False,False,True,Away
+11972457,Chacarita Jrs.,3214,0,1,False,False,True,Home
+11972457,Talleres R.E.,201162,1,0,True,False,False,Away
+11972468,Dep. Morón,93109,1,2,False,False,True,Home
+11972468,San Telmo,213361,2,1,True,False,False,Away
+11972471,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972471,Def. Unidos,93515,0,1,False,False,True,Away
+11972461,Guillermo Brown,53801,1,1,False,True,False,Home
+11972461,Deportivo Maipú,213042,1,1,False,True,False,Away
+11972472,Mitre,255425,0,0,False,True,False,Home
+11972472,Atlanta,53799,0,0,False,True,False,Away
+11972467,Temperley,112499,1,1,False,True,False,Home
+11972467,Chaco For Ever,252726,1,1,False,True,False,Away
+11972460,San Martín,7772,3,2,True,False,False,Home
+11972460,Ferro Carril Oeste,36841,2,3,False,False,True,Away
+11972465,Patronato,43741,2,1,True,False,False,Home
+11972465,Racing de Córdoba,273657,1,2,False,False,True,Away
+11972474,Estudiantes R.C.,266694,1,2,False,False,True,Home
+11972474,Colón,3207,2,1,True,False,False,Away
+12091120,SM Tucumán,23950,0,0,False,True,False,Home
+12091120,Quilmes,4936,0,0,False,True,False,Away
+12091139,Gimnasia Mendoza,188441,2,1,True,False,False,Home
+12091139,Deportivo Madryn,222120,1,2,False,False,True,Away
+11972490,Atlético Rafaela,34976,1,2,False,False,True,Home
+11972490,Dep. Morón,93109,2,1,True,False,False,Away
+11972493,Defensores,52215,0,0,False,True,False,Home
+11972493,Almagro,4938,0,0,False,True,False,Away
+11972489,Deportivo Madryn,222120,0,0,False,True,False,Home
+11972489,Nueva Chicago,3200,0,0,False,True,False,Away
+11972484,Estudiantes B.A.,93107,0,0,False,True,False,Home
+11972484,Chacarita Jrs.,3214,0,0,False,True,False,Away
+11972481,San Miguel,264945,1,1,False,True,False,Home
+11972481,San Martín,7772,1,1,False,True,False,Away
+11972480,Ferro Carril Oeste,36841,1,2,False,False,True,Home
+11972480,Guillermo Brown,53801,2,1,True,False,False,Away
+11972492,Chaco For Ever,252726,3,0,True,False,False,Home
+11972492,Brown de Adrogué,107201,0,3,False,False,True,Away
+11972482,Quilmes,4936,0,0,False,True,False,Home
+11972482,Arsenal,3221,0,0,False,True,False,Away
+11972486,Almirante Brown,43740,2,0,True,False,False,Home
+11972486,Mitre,255425,0,2,False,False,True,Away
+11972488,Def. Unidos,93515,3,1,True,False,False,Home
+11972488,Gimnasia Mendoza,188441,1,3,False,False,True,Away
+11972478,Gimnasia J.,5292,0,1,False,False,True,Home
+11972478,All Boys,36834,1,0,True,False,False,Away
+11972477,Güemes,224646,2,2,False,True,False,Home
+11972477,Tristán Suárez,93513,2,2,False,True,False,Away
+11972479,Deportivo Maipú,213042,1,2,False,False,True,Home
+11972479,Agropecuario,265787,2,1,True,False,False,Away
+11972476,Alvarado,273715,2,0,True,False,False,Home
+11972476,Patronato,43741,0,2,False,False,True,Away
+11972485,Colón,3207,1,1,False,True,False,Home
+11972485,Aldosivi,36836,1,1,False,True,False,Away
+11972483,Talleres R.E.,201162,1,3,False,False,True,Home
+11972483,SM Tucumán,23950,3,1,True,False,False,Away
+11972494,Estudiantes R.C.,266694,0,0,False,True,False,Home
+11972494,Racing de Córdoba,273657,0,0,False,True,False,Away
+11972491,San Telmo,213361,3,0,True,False,False,Home
+11972491,Temperley,112499,0,3,False,False,True,Away
+12112177,Atlanta,53799,1,1,False,True,False,Home
+12112177,Gimnasia y Tiro,222126,1,1,False,True,False,Away
+11972497,San Martín,7772,0,3,False,False,True,Home
+11972497,Quilmes,4936,3,0,True,False,False,Away
+11972513,Chacarita Jrs.,3214,1,4,False,False,True,Home
+11972513,Defensores,52215,4,1,True,False,False,Away
+11972501,Tristán Suárez,93513,2,1,True,False,False,Home
+11972501,Gimnasia J.,5292,1,2,False,False,True,Away
+11972500,All Boys,36834,3,2,True,False,False,Home
+11972500,Deportivo Maipú,213042,2,3,False,False,True,Away
+11972512,Aldosivi,36836,1,1,False,True,False,Home
+11972512,Estudiantes R.C.,266694,1,1,False,True,False,Away
+11972506,Temperley,112499,1,1,False,True,False,Home
+11972506,Atlético Rafaela,34976,1,1,False,True,False,Away
+11972505,Brown de Adrogué,107201,0,0,False,True,False,Home
+11972505,San Telmo,213361,0,0,False,True,False,Away
+11972496,Arsenal,3221,2,1,True,False,False,Home
+11972496,Talleres R.E.,201162,1,2,False,False,True,Away
+11972504,Almagro,4938,0,0,False,True,False,Home
+11972504,Chaco For Ever,252726,0,0,False,True,False,Away
+11972507,Dep. Morón,93109,0,0,False,True,False,Home
+11972507,Deportivo Madryn,222120,0,0,False,True,False,Away
+11972498,Guillermo Brown,53801,1,1,False,True,False,Home
+11972498,San Miguel,264945,1,1,False,True,False,Away
+11972503,Racing de Córdoba,273657,2,0,True,False,False,Home
+11972503,Alvarado,273715,0,2,False,False,True,Away
+11972511,Mitre,255425,2,2,False,True,False,Home
+11972511,Colón,3207,2,2,False,True,False,Away
+11972495,SM Tucumán,23950,2,0,True,False,False,Home
+11972495,Estudiantes B.A.,93107,0,2,False,False,True,Away
+11972502,Patronato,43741,0,0,False,True,False,Home
+11972502,Güemes,224646,0,0,False,True,False,Away
+11972509,Gimnasia Mendoza,188441,2,1,True,False,False,Home
+11972509,Atlanta,53799,1,2,False,False,True,Away
+12158627,Nueva Chicago,3200,3,0,True,False,False,Home
+12158627,Def. Unidos,93515,0,3,False,False,True,Away
+12130888,Agropecuario,265787,1,2,False,False,True,Home
+12130888,Ferro Carril Oeste,36841,2,1,True,False,False,Away
+12131267,Gimnasia y Tiro,222126,0,0,False,True,False,Home
+12131267,Almirante Brown,43740,0,0,False,True,False,Away
+11972520,Talleres R.E.,201162,0,0,False,True,False,Home
+11972520,San Martín,7772,0,0,False,True,False,Away
+11972527,Def. Unidos,93515,2,0,True,False,False,Home
+11972527,Dep. Morón,93109,0,2,False,False,True,Away
+11972521,Estudiantes B.A.,93107,1,0,True,False,False,Home
+11972521,Arsenal,3221,0,1,False,False,True,Away
+11972518,San Miguel,264945,1,1,False,True,False,Home
+11972518,Agropecuario,265787,1,1,False,True,False,Away
+11972532,Aldosivi,36836,0,0,False,True,False,Home
+11972532,Alvarado,273715,0,0,False,True,False,Away
+11972528,Deportivo Madryn,222120,0,1,False,False,True,Home
+11972528,Temperley,112499,1,0,True,False,False,Away
+11972530,San Telmo,213361,4,1,True,False,False,Home
+11972530,Almagro,4938,1,4,False,False,True,Away
+11972516,Deportivo Maipú,213042,1,0,True,False,False,Home
+11972516,Tristán Suárez,93513,0,1,False,False,True,Away
+11972519,Quilmes,4936,1,0,True,False,False,Home
+11972519,Guillermo Brown,53801,0,1,False,False,True,Away
+11972515,Gimnasia J.,5292,1,1,False,True,False,Home
+11972515,Patronato,43741,1,1,False,True,False,Away
+11972522,Chacarita Jrs.,3214,1,0,True,False,False,Home
+11972522,SM Tucumán,23950,0,1,False,False,True,Away
+11972525,Almirante Brown,43740,0,0,False,True,False,Home
+11972525,Gimnasia Mendoza,188441,0,0,False,True,False,Away
+12157520,Ferro Carril Oeste,36841,2,2,False,True,False,Home
+12157520,All Boys,36834,2,2,False,True,False,Away
+12183621,Güemes,224646,0,1,False,False,True,Home
+12183621,Racing de Córdoba,273657,1,0,True,False,False,Away
+11972526,Atlanta,53799,0,0,False,True,False,Home
+11972526,Nueva Chicago,3200,0,0,False,True,False,Away
+12159140,Atlético Rafaela,34976,0,0,False,True,False,Home
+12159140,Brown de Adrogué,107201,0,0,False,True,False,Away
+12178540,Chaco For Ever,252726,3,0,True,False,False,Home
+12178540,Defensores,52215,0,3,False,False,True,Away
+12158125,Estudiantes R.C.,266694,0,0,False,True,False,Home
+12158125,Mitre,255425,0,0,False,True,False,Away
+12177656,Colón,3207,1,0,True,False,False,Home
+12177656,Gimnasia y Tiro,222126,0,1,False,False,True,Away
+11972535,Guillermo Brown,53801,1,1,False,True,False,Home
+11972535,Talleres R.E.,201162,1,1,False,True,False,Away
+11972536,Agropecuario,265787,1,1,False,True,False,Home
+11972536,Quilmes,4936,1,1,False,True,False,Away
+11972533,Arsenal,3221,3,1,True,False,False,Home
+11972533,Chacarita Jrs.,3214,1,3,False,False,True,Away
+11972548,Gimnasia Mendoza,188441,2,0,True,False,False,Home
+11972548,Colón,3207,0,2,False,False,True,Away
+11972543,Almagro,4938,1,0,True,False,False,Home
+11972543,Atlético Rafaela,34976,0,1,False,False,True,Away
+11972545,Temperley,112499,0,0,False,True,False,Home
+11972545,Def. Unidos,93515,0,0,False,True,False,Away
+11972538,Tristán Suárez,93513,1,1,False,True,False,Home
+11972538,Ferro Carril Oeste,36841,1,1,False,True,False,Away
+11972547,Nueva Chicago,3200,1,0,True,False,False,Home
+11972547,Almirante Brown,43740,0,1,False,False,True,Away
+11972541,Alvarado,273715,0,0,False,True,False,Home
+11972541,Güemes,224646,0,0,False,True,False,Away
+11972549,Gimnasia y Tiro,222126,1,1,False,True,False,Home
+11972549,Estudiantes R.C.,266694,1,1,False,True,False,Away
+11972540,Racing de Córdoba,273657,1,0,True,False,False,Home
+11972540,Gimnasia J.,5292,0,1,False,False,True,Away
+11972539,Patronato,43741,1,2,False,False,True,Home
+11972539,Deportivo Maipú,213042,2,1,True,False,False,Away
+11972537,All Boys,36834,0,0,False,True,False,Home
+11972537,San Miguel,264945,0,0,False,True,False,Away
+11972544,Brown de Adrogué,107201,0,1,False,False,True,Home
+11972544,Deportivo Madryn,222120,1,0,True,False,False,Away
+11972534,San Martín,7772,0,0,False,True,False,Home
+11972534,Estudiantes B.A.,93107,0,0,False,True,False,Away
+11972546,Dep. Morón,93109,3,0,True,False,False,Home
+11972546,Atlanta,53799,0,3,False,False,True,Away
+11972542,Defensores,52215,0,1,False,False,True,Home
+11972542,San Telmo,213361,1,0,True,False,False,Away
+11972550,Mitre,255425,0,1,False,False,True,Home
+11972550,Aldosivi,36836,1,0,True,False,False,Away
+12180474,SM Tucumán,23950,1,0,True,False,False,Home
+12180474,Chaco For Ever,252726,0,1,False,False,True,Away
+11972563,Colón,3207,2,1,True,False,False,Home
+11972563,Nueva Chicago,3200,1,2,False,False,True,Away
+11972559,Chacarita Jrs.,3214,1,1,False,True,False,Home
+11972559,San Martín,7772,1,1,False,True,False,Away
+11972564,Almirante Brown,43740,1,1,False,True,False,Home
+11972564,Dep. Morón,93109,1,1,False,True,False,Away
+11972566,Def. Unidos,93515,1,1,False,True,False,Home
+11972566,Brown de Adrogué,107201,1,1,False,True,False,Away
+11972569,San Telmo,213361,2,0,True,False,False,Home
+11972569,Chaco For Ever,252726,0,2,False,False,True,Away
+11972554,Ferro Carril Oeste,36841,1,1,False,True,False,Home
+11972554,Patronato,43741,1,1,False,True,False,Away
+11972560,SM Tucumán,23950,3,0,True,False,False,Home
+11972560,Arsenal,3221,0,3,False,False,True,Away
+11972555,San Miguel,264945,3,2,True,False,False,Home
+11972555,Tristán Suárez,93513,2,3,False,False,True,Away
+11972558,Estudiantes B.A.,93107,2,1,True,False,False,Home
+11972558,Guillermo Brown,53801,1,2,False,False,True,Away
+11972557,Talleres R.E.,201162,1,5,False,False,True,Home
+11972557,Agropecuario,265787,5,1,True,False,False,Away
+11972567,Deportivo Madryn,222120,2,0,True,False,False,Home
+11972567,Almagro,4938,0,2,False,False,True,Away
+11972552,Gimnasia J.,5292,1,0,True,False,False,Home
+11972552,Alvarado,273715,0,1,False,False,True,Away
+11972556,Quilmes,4936,1,0,True,False,False,Home
+11972556,All Boys,36834,0,1,False,False,True,Away
+11972561,Aldosivi,36836,2,2,False,True,False,Home
+11972561,Gimnasia y Tiro,222126,2,2,False,True,False,Away
+11972553,Deportivo Maipú,213042,1,0,True,False,False,Home
+11972553,Racing de Córdoba,273657,0,1,False,False,True,Away
+11972570,Mitre,255425,2,0,True,False,False,Home
+11972570,Güemes,224646,0,2,False,False,True,Away
+11972562,Estudiantes R.C.,266694,1,1,False,True,False,Home
+11972562,Gimnasia Mendoza,188441,1,1,False,True,False,Away
+11972568,Atlético Rafaela,34976,0,1,False,False,True,Home
+11972568,Defensores,52215,1,0,True,False,False,Away
+12213142,Atlanta,53799,0,2,False,False,True,Home
+12213142,Temperley,112499,2,0,True,False,False,Away
+11972586,Nueva Chicago,3200,0,1,False,False,True,Home
+11972586,Estudiantes R.C.,266694,1,0,True,False,False,Away
+11972583,Brown de Adrogué,107201,2,3,False,False,True,Home
+11972583,Atlanta,53799,3,2,True,False,False,Away
+11972584,Temperley,112499,1,1,False,True,False,Home
+11972584,Almirante Brown,43740,1,1,False,True,False,Away
+11972582,Almagro,4938,1,1,False,True,False,Home
+11972582,Def. Unidos,93515,1,1,False,True,False,Away
+11972587,Gimnasia Mendoza,188441,2,3,False,False,True,Home
+11972587,Aldosivi,36836,3,2,True,False,False,Away
+11972580,Chaco For Ever,252726,2,0,True,False,False,Home
+11972580,Atlético Rafaela,34976,0,2,False,False,True,Away
+11972573,Agropecuario,265787,0,0,False,True,False,Home
+11972573,Estudiantes B.A.,93107,0,0,False,True,False,Away
+11972578,Alvarado,273715,0,1,False,False,True,Home
+11972578,Deportivo Maipú,213042,1,0,True,False,False,Away
+11972574,All Boys,36834,1,0,True,False,False,Home
+11972574,Talleres R.E.,201162,0,1,False,False,True,Away
+11972585,Dep. Morón,93109,0,2,False,False,True,Home
+11972585,Colón,3207,2,0,True,False,False,Away
+11972575,Tristán Suárez,93513,1,3,False,False,True,Home
+11972575,Quilmes,4936,3,1,True,False,False,Away
+11972589,Arsenal,3221,0,0,False,True,False,Home
+11972589,San Telmo,213361,0,0,False,True,False,Away
+11972572,Guillermo Brown,53801,0,3,False,False,True,Home
+11972572,Chacarita Jrs.,3214,3,0,True,False,False,Away
+11972588,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972588,Mitre,255425,0,1,False,False,True,Away
+11972577,Racing de Córdoba,273657,1,1,False,True,False,Home
+11972577,Ferro Carril Oeste,36841,1,1,False,True,False,Away
+11972579,Güemes,224646,1,1,False,True,False,Home
+11972579,Gimnasia J.,5292,1,1,False,True,False,Away
+11972571,San Martín,7772,0,0,False,True,False,Home
+11972571,SM Tucumán,23950,0,0,False,True,False,Away
+11972581,Defensores,52215,2,3,False,False,True,Home
+11972581,Deportivo Madryn,222120,3,2,True,False,False,Away
+11972576,Patronato,43741,0,1,False,False,True,Home
+11972576,San Miguel,264945,1,0,True,False,False,Away
+11972597,SM Tucumán,23950,0,0,False,True,False,Home
+11972597,Guillermo Brown,53801,0,0,False,True,False,Away
+11972604,Atlanta,53799,3,0,True,False,False,Home
+11972604,Almagro,4938,0,3,False,False,True,Away
+11972595,Estudiantes B.A.,93107,1,1,False,True,False,Home
+11972595,All Boys,36834,1,1,False,True,False,Away
+11972605,Def. Unidos,93515,3,2,True,False,False,Home
+11972605,Defensores,52215,2,3,False,False,True,Away
+11972602,Colón,3207,0,0,False,True,False,Home
+11972602,Temperley,112499,0,0,False,True,False,Away
+11972594,Talleres R.E.,201162,1,0,True,False,False,Home
+11972594,Tristán Suárez,93513,0,1,False,False,True,Away
+11972599,Mitre,255425,0,1,False,False,True,Home
+11972599,Gimnasia Mendoza,188441,1,0,True,False,False,Away
+11972598,Arsenal,3221,0,0,False,True,False,Home
+11972598,San Martín,7772,0,0,False,True,False,Away
+11972606,Deportivo Madryn,222120,1,0,True,False,False,Home
+11972606,Chaco For Ever,252726,0,1,False,False,True,Away
+11972592,San Miguel,264945,2,0,True,False,False,Home
+11972592,Racing de Córdoba,273657,0,2,False,False,True,Away
+11972596,Chacarita Jrs.,3214,2,1,True,False,False,Home
+11972596,Agropecuario,265787,1,2,False,False,True,Away
+11972600,Aldosivi,36836,0,0,False,True,False,Home
+11972600,Nueva Chicago,3200,0,0,False,True,False,Away
+11972608,Gimnasia y Tiro,222126,0,0,False,True,False,Home
+11972608,Gimnasia J.,5292,0,0,False,True,False,Away
+11972607,Atlético Rafaela,34976,1,2,False,False,True,Home
+11972607,San Telmo,213361,2,1,True,False,False,Away
+11972601,Estudiantes R.C.,266694,2,0,True,False,False,Home
+11972601,Dep. Morón,93109,0,2,False,False,True,Away
+11972603,Almirante Brown,43740,1,2,False,False,True,Home
+11972603,Brown de Adrogué,107201,2,1,True,False,False,Away
+11972590,Deportivo Maipú,213042,1,1,False,True,False,Home
+11972590,Güemes,224646,1,1,False,True,False,Away
+12262054,Quilmes,4936,2,2,False,True,False,Home
+12262054,Patronato,43741,2,2,False,True,False,Away
+12245548,Ferro Carril Oeste,36841,3,0,True,False,False,Home
+12245548,Alvarado,273715,0,3,False,False,True,Away
+11972612,Tristán Suárez,93513,0,1,False,False,True,Home
+11972612,Estudiantes B.A.,93107,1,0,True,False,False,Away
+11972621,Almagro,4938,1,0,True,False,False,Home
+11972621,Almirante Brown,43740,0,1,False,False,True,Away
+11972613,Patronato,43741,1,1,False,True,False,Home
+11972613,Talleres R.E.,201162,1,1,False,True,False,Away
+11972625,Nueva Chicago,3200,1,0,True,False,False,Home
+11972625,Mitre,255425,0,1,False,False,True,Away
+11972610,Agropecuario,265787,0,1,False,False,True,Home
+11972610,SM Tucumán,23950,1,0,True,False,False,Away
+11972620,Defensores,52215,2,0,True,False,False,Home
+11972620,Atlanta,53799,0,2,False,False,True,Away
+11972622,Brown de Adrogué,107201,0,4,False,False,True,Home
+11972622,Colón,3207,4,0,True,False,False,Away
+11972609,Guillermo Brown,53801,2,0,True,False,False,Home
+11972609,Arsenal,3221,0,2,False,False,True,Away
+11972624,Dep. Morón,93109,2,1,True,False,False,Home
+11972624,Aldosivi,36836,1,2,False,False,True,Away
+11972615,Alvarado,273715,1,0,True,False,False,Home
+11972615,San Miguel,264945,0,1,False,False,True,Away
+11972618,San Telmo,213361,2,1,True,False,False,Home
+11972618,Deportivo Madryn,222120,1,2,False,False,True,Away
+11972623,Temperley,112499,0,1,False,False,True,Home
+11972623,Estudiantes R.C.,266694,1,0,True,False,False,Away
+11972617,Gimnasia J.,5292,2,0,True,False,False,Home
+11972617,Deportivo Maipú,213042,0,2,False,False,True,Away
+11972627,San Martín,7772,2,1,True,False,False,Home
+11972627,Atlético Rafaela,34976,1,2,False,False,True,Away
+11972619,Chaco For Ever,252726,3,0,True,False,False,Home
+11972619,Def. Unidos,93515,0,3,False,False,True,Away
+11972626,Gimnasia Mendoza,188441,0,0,False,True,False,Home
+11972626,Gimnasia y Tiro,222126,0,0,False,True,False,Away
+11972616,Güemes,224646,1,3,False,False,True,Home
+11972616,Ferro Carril Oeste,36841,3,1,True,False,False,Away
+11972611,All Boys,36834,0,0,False,True,False,Home
+11972611,Chacarita Jrs.,3214,0,0,False,True,False,Away
+11972614,Racing de Córdoba,273657,1,0,True,False,False,Home
+11972614,Quilmes,4936,0,1,False,False,True,Away
+11972641,Colón,3207,3,0,True,False,False,Home
+11972641,Almagro,4938,0,3,False,False,True,Away
+11972640,Estudiantes R.C.,266694,2,1,True,False,False,Home
+11972640,Brown de Adrogué,107201,1,2,False,False,True,Away
+11972644,Def. Unidos,93515,2,2,False,True,False,Home
+11972644,San Telmo,213361,2,2,False,True,False,Away
+11972643,Atlanta,53799,1,0,True,False,False,Home
+11972643,Chaco For Ever,252726,0,1,False,False,True,Away
+11972642,Almirante Brown,43740,0,2,False,False,True,Home
+11972642,Defensores,52215,2,0,True,False,False,Away
+11972635,Arsenal,3221,1,0,True,False,False,Home
+11972635,Agropecuario,265787,0,1,False,False,True,Away
+11972645,Deportivo Madryn,222120,1,1,False,True,False,Home
+11972645,Atlético Rafaela,34976,1,1,False,True,False,Away
+11972632,Estudiantes B.A.,93107,0,0,False,True,False,Home
+11972632,Patronato,43741,0,0,False,True,False,Away
+11972646,Gimnasia Mendoza,188441,0,1,False,False,True,Home
+11972646,Deportivo Maipú,213042,1,0,True,False,False,Away
+11972629,San Miguel,264945,1,0,True,False,False,Home
+11972629,Güemes,224646,0,1,False,False,True,Away
+11972638,Mitre,255425,0,0,False,True,False,Home
+11972638,Dep. Morón,93109,0,0,False,True,False,Away
+11972636,San Martín,7772,1,0,True,False,False,Home
+11972636,Guillermo Brown,53801,0,1,False,False,True,Away
+11972639,Aldosivi,36836,1,1,False,True,False,Home
+11972639,Temperley,112499,1,1,False,True,False,Away
+11972634,SM Tucumán,23950,0,0,False,True,False,Home
+11972634,All Boys,36834,0,0,False,True,False,Away
+11972633,Chacarita Jrs.,3214,1,2,False,False,True,Home
+11972633,Tristán Suárez,93513,2,1,True,False,False,Away
+11972637,Gimnasia y Tiro,222126,2,0,True,False,False,Home
+11972637,Nueva Chicago,3200,0,2,False,False,True,Away
+11972628,Ferro Carril Oeste,36841,2,0,True,False,False,Home
+11972628,Gimnasia J.,5292,0,2,False,False,True,Away
+11972630,Quilmes,4936,1,1,False,True,False,Home
+11972630,Alvarado,273715,1,1,False,True,False,Away
+12283032,Talleres R.E.,201162,0,0,False,True,False,Home
+12283032,Racing de Córdoba,273657,0,0,False,True,False,Away
+11972662,Temperley,112499,2,0,True,False,False,Home
+11972662,Mitre,255425,0,2,False,False,True,Away
+11972663,Dep. Morón,93109,0,0,False,True,False,Home
+11972663,Gimnasia y Tiro,222126,0,0,False,True,False,Away
+11972649,Tristán Suárez,93513,0,0,False,True,False,Home
+11972649,SM Tucumán,23950,0,0,False,True,False,Away
+11972658,Chaco For Ever,252726,0,0,False,True,False,Home
+11972658,Almirante Brown,43740,0,0,False,True,False,Away
+11972647,Agropecuario,265787,0,1,False,False,True,Home
+11972647,San Martín,7772,1,0,True,False,False,Away
+11972656,Atlético Rafaela,34976,1,0,True,False,False,Home
+11972656,Def. Unidos,93515,0,1,False,False,True,Away
+11972661,Brown de Adrogué,107201,0,1,False,False,True,Home
+11972661,Aldosivi,36836,1,0,True,False,False,Away
+11972657,San Telmo,213361,0,1,False,False,True,Home
+11972657,Atlanta,53799,1,0,True,False,False,Away
+11972665,Guillermo Brown,53801,0,1,False,False,True,Home
+11972665,Deportivo Madryn,222120,1,0,True,False,False,Away
+11972653,Güemes,224646,1,0,True,False,False,Home
+11972653,Quilmes,4936,0,1,False,False,True,Away
+11972652,Alvarado,273715,2,0,True,False,False,Home
+11972652,Talleres R.E.,201162,0,2,False,False,True,Away
+11972655,Deportivo Maipú,213042,2,1,True,False,False,Home
+11972655,Ferro Carril Oeste,36841,1,2,False,False,True,Away
+11972654,Gimnasia J.,5292,3,0,True,False,False,Home
+11972654,San Miguel,264945,0,3,False,False,True,Away
+11972650,Patronato,43741,2,0,True,False,False,Home
+11972650,Chacarita Jrs.,3214,0,2,False,False,True,Away
+11972664,Nueva Chicago,3200,2,1,True,False,False,Home
+11972664,Gimnasia Mendoza,188441,1,2,False,False,True,Away
+11972651,Racing de Córdoba,273657,0,1,False,False,True,Home
+11972651,Estudiantes B.A.,93107,1,0,True,False,False,Away
+11972660,Almagro,4938,0,1,False,False,True,Home
+11972660,Estudiantes R.C.,266694,1,0,True,False,False,Away
+12302435,All Boys,36834,1,0,True,False,False,Home
+12302435,Arsenal,3221,0,1,False,False,True,Away
+12302371,Defensores,52215,1,0,True,False,False,Home
+12302371,Colón,3207,0,1,False,False,True,Away
+11972676,Gimnasia y Tiro,222126,0,2,False,False,True,Home
+11972676,Temperley,112499,2,0,True,False,False,Away
+11972666,San Miguel,264945,2,1,True,False,False,Home
+11972666,Deportivo Maipú,213042,1,2,False,False,True,Away
+11972668,Talleres R.E.,201162,0,0,False,True,False,Home
+11972668,Güemes,224646,0,0,False,True,False,Away
+11972667,Quilmes,4936,2,1,True,False,False,Home
+11972667,Gimnasia J.,5292,1,2,False,False,True,Away
+11972669,Estudiantes B.A.,93107,4,0,True,False,False,Home
+11972669,Alvarado,273715,0,4,False,False,True,Away
+11972682,Atlanta,53799,2,0,True,False,False,Home
+11972682,Atlético Rafaela,34976,0,2,False,False,True,Away
+11972672,Arsenal,3221,0,2,False,False,True,Home
+11972672,Tristán Suárez,93513,2,0,True,False,False,Away
+11972674,Guillermo Brown,53801,0,2,False,False,True,Home
+11972674,Agropecuario,265787,2,0,True,False,False,Away
+11972678,Aldosivi,36836,1,0,True,False,False,Home
+11972678,Almagro,4938,0,1,False,False,True,Away
+11972670,Chacarita Jrs.,3214,2,2,False,True,False,Home
+11972670,Racing de Córdoba,273657,2,2,False,True,False,Away
+11972683,Def. Unidos,93515,0,0,False,True,False,Home
+11972683,Deportivo Madryn,222120,0,0,False,True,False,Away
+11972675,Gimnasia Mendoza,188441,2,1,True,False,False,Home
+11972675,Dep. Morón,93109,1,2,False,False,True,Away
+11972680,Colón,3207,1,0,True,False,False,Home
+11972680,Chaco For Ever,252726,0,1,False,False,True,Away
+11972673,San Martín,7772,3,0,True,False,False,Home
+11972673,All Boys,36834,0,3,False,False,True,Away
+11972679,Estudiantes R.C.,266694,1,1,False,True,False,Home
+11972679,Defensores,52215,1,1,False,True,False,Away
+11972681,Almirante Brown,43740,0,0,False,True,False,Home
+11972681,San Telmo,213361,0,0,False,True,False,Away
+12325027,SM Tucumán,23950,2,0,True,False,False,Home
+12325027,Patronato,43741,0,2,False,False,True,Away
+12335281,Mitre,255425,1,0,True,False,False,Home
+12335281,Brown de Adrogué,107201,0,1,False,False,True,Away
+12339889,Nueva Chicago,3200,3,1,True,False,False,Home
+12339889,Ferro Carril Oeste,36841,1,3,False,False,True,Away
+11972697,San Telmo,213361,2,0,True,False,False,Home
+11972697,Colón,3207,0,2,False,False,True,Away
+11972686,Tristán Suárez,93513,0,1,False,False,True,Home
+11972686,San Martín,7772,1,0,True,False,False,Away
+11972704,Agropecuario,265787,0,0,False,True,False,Home
+11972704,Def. Unidos,93515,0,0,False,True,False,Away
+11972696,Atlético Rafaela,34976,1,2,False,False,True,Home
+11972696,Almirante Brown,43740,2,1,True,False,False,Away
+11972693,Ferro Carril Oeste,36841,1,0,True,False,False,Home
+11972693,San Miguel,264945,0,1,False,False,True,Away
+11972701,Brown de Adrogué,107201,0,0,False,True,False,Home
+11972701,Gimnasia y Tiro,222126,0,0,False,True,False,Away
+11972694,Deportivo Madryn,222120,3,0,True,False,False,Home
+11972694,Atlanta,53799,0,3,False,False,True,Away
+11972690,Güemes,224646,1,0,True,False,False,Home
+11972690,Estudiantes B.A.,93107,0,1,False,False,True,Away
+11972703,Dep. Morón,93109,1,0,True,False,False,Home
+11972703,Nueva Chicago,3200,0,1,False,False,True,Away
+11972685,All Boys,36834,1,1,False,True,False,Home
+11972685,Guillermo Brown,53801,1,1,False,True,False,Away
+11972700,Almagro,4938,0,0,False,True,False,Home
+11972700,Mitre,255425,0,0,False,True,False,Away
+11972689,Alvarado,273715,2,1,True,False,False,Home
+11972689,Chacarita Jrs.,3214,1,2,False,False,True,Away
+11972692,Deportivo Maipú,213042,1,1,False,True,False,Home
+11972692,Quilmes,4936,1,1,False,True,False,Away
+11972698,Chaco For Ever,252726,3,0,True,False,False,Home
+11972698,Estudiantes R.C.,266694,0,3,False,False,True,Away
+11972691,Gimnasia J.,5292,2,1,True,False,False,Home
+11972691,Talleres R.E.,201162,1,2,False,False,True,Away
+11972687,Patronato,43741,0,0,False,True,False,Home
+11972687,Arsenal,3221,0,0,False,True,False,Away
+11972688,Racing de Córdoba,273657,0,1,False,False,True,Home
+11972688,SM Tucumán,23950,1,0,True,False,False,Away
+12338766,Defensores,52215,0,2,False,False,True,Home
+12338766,Aldosivi,36836,2,0,True,False,False,Away
+12338767,Temperley,112499,1,3,False,False,True,Home
+12338767,Gimnasia Mendoza,188441,3,1,True,False,False,Away
+11972710,Arsenal,3221,0,2,False,False,True,Home
+11972710,Racing de Córdoba,273657,2,0,True,False,False,Away
+11972720,Colón,3207,1,0,True,False,False,Home
+11972720,Atlético Rafaela,34976,0,1,False,False,True,Away
+11972714,Nueva Chicago,3200,1,0,True,False,False,Home
+11972714,Temperley,112499,0,1,False,False,True,Away
+11972708,Chacarita Jrs.,3214,2,0,True,False,False,Home
+11972708,Güemes,224646,0,2,False,False,True,Away
+11972706,Talleres R.E.,201162,2,3,False,False,True,Home
+11972706,Deportivo Maipú,213042,3,2,True,False,False,Away
+11972721,Almirante Brown,43740,0,1,False,False,True,Home
+11972721,Deportivo Madryn,222120,1,0,True,False,False,Away
+11972707,Estudiantes B.A.,93107,1,0,True,False,False,Home
+11972707,Gimnasia J.,5292,0,1,False,False,True,Away
+11972712,Guillermo Brown,53801,2,1,True,False,False,Home
+11972712,Tristán Suárez,93513,1,2,False,False,True,Away
+12364770,Dep. Morón,93109,0,1,False,False,True,Home
+12364770,San Miguel,264945,1,0,True,False,False,Away
+11972715,Gimnasia Mendoza,188441,3,1,True,False,False,Home
+11972715,Brown de Adrogué,107201,1,3,False,False,True,Away
+11972716,Gimnasia y Tiro,222126,1,1,False,True,False,Home
+11972716,Almagro,4938,1,1,False,True,False,Away
+11972718,Aldosivi,36836,1,1,False,True,False,Home
+11972718,Chaco For Ever,252726,1,1,False,True,False,Away
+11972717,Mitre,255425,2,0,True,False,False,Home
+11972717,Defensores,52215,0,2,False,False,True,Away
+11972711,San Martín,7772,1,0,True,False,False,Home
+11972711,Patronato,43741,0,1,False,False,True,Away
+11972719,Estudiantes R.C.,266694,0,1,False,False,True,Home
+11972719,San Telmo,213361,1,0,True,False,False,Away
+11972709,SM Tucumán,23950,1,0,True,False,False,Home
+11972709,Alvarado,273715,0,1,False,False,True,Away
+11972705,Quilmes,4936,1,4,False,False,True,Home
+11972705,Ferro Carril Oeste,36841,4,1,True,False,False,Away
+12377426,Atlanta,53799,1,1,False,True,False,Home
+12377426,Def. Unidos,93515,1,1,False,True,False,Away
+11972713,Agropecuario,265787,2,1,True,False,False,Home
+11972713,All Boys,36834,1,2,False,False,True,Away
+11972739,Almagro,4938,2,2,False,True,False,Home
+11972739,Gimnasia Mendoza,188441,2,2,False,True,False,Away
+11972738,Defensores,52215,1,0,True,False,False,Home
+11972738,Gimnasia y Tiro,222126,0,1,False,False,True,Away
+11972724,Tristán Suárez,93513,2,1,True,False,False,Home
+11972724,Agropecuario,265787,1,2,False,False,True,Away
+11972732,San Miguel,264945,1,0,True,False,False,Home
+11972732,Quilmes,4936,0,1,False,False,True,Away
+11972742,All Boys,36834,1,0,True,False,False,Home
+11972742,Atlanta,53799,0,1,False,False,True,Away
+11972741,Temperley,112499,3,0,True,False,False,Home
+11972741,Dep. Morón,93109,0,3,False,False,True,Away
+11972740,Brown de Adrogué,107201,0,0,False,True,False,Home
+11972740,Nueva Chicago,3200,0,0,False,True,False,Away
+11972727,Alvarado,273715,2,1,True,False,False,Home
+11972727,Arsenal,3221,1,2,False,False,True,Away
+11972733,Def. Unidos,93515,0,1,False,False,True,Home
+11972733,Almirante Brown,43740,1,0,True,False,False,Away
+11972730,Deportivo Maipú,213042,1,0,True,False,False,Home
+11972730,Estudiantes B.A.,93107,0,1,False,False,True,Away
+11972728,Güemes,224646,0,0,False,True,False,Home
+11972728,SM Tucumán,23950,0,0,False,True,False,Away
+11972726,Racing de Córdoba,273657,0,0,False,True,False,Home
+11972726,San Martín,7772,0,0,False,True,False,Away
+11972734,Deportivo Madryn,222120,0,0,False,True,False,Home
+11972734,Colón,3207,0,0,False,True,False,Away
+11972737,Chaco For Ever,252726,1,1,False,True,False,Home
+11972737,Mitre,255425,1,1,False,True,False,Away
+11972731,Ferro Carril Oeste,36841,0,1,False,False,True,Home
+11972731,Talleres R.E.,201162,1,0,True,False,False,Away
+11972725,Patronato,43741,0,0,False,True,False,Home
+11972725,Guillermo Brown,53801,0,0,False,True,False,Away
+11972735,Atlético Rafaela,34976,0,1,False,False,True,Home
+11972735,Estudiantes R.C.,266694,1,0,True,False,False,Away
+11972729,Gimnasia J.,5292,0,1,False,False,True,Home
+11972729,Chacarita Jrs.,3214,1,0,True,False,False,Away
+12621613,San Telmo,213361,1,2,False,False,True,Home
+12621613,Aldosivi,36836,2,1,True,False,False,Away
+11972753,Almagro,4938,1,2,False,False,True,Home
+11972753,Nueva Chicago,3200,2,1,True,False,False,Away
+11972752,Brown de Adrogué,107201,0,0,False,True,False,Home
+11972752,Dep. Morón,93109,0,0,False,True,False,Away
+11972754,Defensores,52215,0,1,False,False,True,Home
+11972754,Gimnasia Mendoza,188441,1,0,True,False,False,Away
+11972758,Deportivo Madryn,222120,1,0,True,False,False,Home
+11972758,Estudiantes R.C.,266694,0,1,False,False,True,Away
+11972743,San Miguel,264945,0,0,False,True,False,Home
+11972743,Talleres R.E.,201162,0,0,False,True,False,Away
+11972751,Tristán Suárez,93513,1,0,True,False,False,Home
+11972751,All Boys,36834,0,1,False,False,True,Away
+11972761,Temperley,112499,1,0,True,False,False,Home
+11972761,Quilmes,4936,0,1,False,False,True,Away
+11972748,Alvarado,273715,0,0,False,True,False,Home
+11972748,San Martín,7772,0,0,False,True,False,Away
+11972745,Deportivo Maipú,213042,0,2,False,False,True,Home
+11972745,Chacarita Jrs.,3214,2,0,True,False,False,Away
+11972749,Racing de Córdoba,273657,1,2,False,False,True,Home
+11972749,Guillermo Brown,53801,2,1,True,False,False,Away
+11972756,San Telmo,213361,0,0,False,True,False,Home
+11972756,Mitre,255425,0,0,False,True,False,Away
+11972759,Def. Unidos,93515,2,1,True,False,False,Home
+11972759,Colón,3207,1,2,False,False,True,Away
+11972755,Chaco For Ever,252726,0,1,False,False,True,Home
+11972755,Gimnasia y Tiro,222126,1,0,True,False,False,Away
+11972746,Gimnasia J.,5292,2,0,True,False,False,Home
+11972746,SM Tucumán,23950,0,2,False,False,True,Away
+11972747,Güemes,224646,0,1,False,False,True,Home
+11972747,Arsenal,3221,1,0,True,False,False,Away
+11972750,Patronato,43741,4,0,True,False,False,Home
+11972750,Agropecuario,265787,0,4,False,False,True,Away
+11972744,Ferro Carril Oeste,36841,2,2,False,True,False,Home
+11972744,Estudiantes B.A.,93107,2,2,False,True,False,Away
+11972757,Atlético Rafaela,34976,0,2,False,False,True,Home
+11972757,Aldosivi,36836,2,0,True,False,False,Away
+11972760,Atlanta,53799,1,0,True,False,False,Home
+11972760,Almirante Brown,43740,0,1,False,False,True,Away
+11972763,Agropecuario,265787,2,4,False,False,True,Home
+11972763,Racing de Córdoba,273657,4,2,True,False,False,Away
+11972762,All Boys,36834,1,0,True,False,False,Home
+11972762,Patronato,43741,0,1,False,False,True,Away
+11972776,Gimnasia Mendoza,188441,1,0,True,False,False,Home
+11972776,Chaco For Ever,252726,0,1,False,False,True,Away
+11972779,Temperley,112499,1,0,True,False,False,Home
+11972779,Brown de Adrogué,107201,0,1,False,False,True,Away
+11972769,Estudiantes B.A.,93107,1,1,False,True,False,Home
+11972769,San Miguel,264945,1,1,False,True,False,Away
+11972768,Chacarita Jrs.,3214,1,1,False,True,False,Home
+11972768,Ferro Carril Oeste,36841,1,1,False,True,False,Away
+11972766,Arsenal,3221,0,1,False,False,True,Home
+11972766,Gimnasia J.,5292,1,0,True,False,False,Away
+11972773,Aldosivi,36836,1,0,True,False,False,Home
+11972773,Deportivo Madryn,222120,0,1,False,False,True,Away
+11972778,Dep. Morón,93109,0,0,False,True,False,Home
+11972778,Almagro,4938,0,0,False,True,False,Away
+11972764,Guillermo Brown,53801,0,0,False,True,False,Home
+11972764,Alvarado,273715,0,0,False,True,False,Away
+11972780,Tristán Suárez,93513,2,2,False,True,False,Home
+11972780,Almirante Brown,43740,2,2,False,True,False,Away
+11972777,Nueva Chicago,3200,0,0,False,True,False,Home
+11972777,Defensores,52215,0,0,False,True,False,Away
+11972775,Gimnasia y Tiro,222126,0,3,False,False,True,Home
+11972775,San Telmo,213361,3,0,True,False,False,Away
+11972772,Estudiantes R.C.,266694,2,1,True,False,False,Home
+11972772,Def. Unidos,93515,1,2,False,False,True,Away
+11972774,Mitre,255425,2,0,True,False,False,Home
+11972774,Atlético Rafaela,34976,0,2,False,False,True,Away
+11972765,San Martín,7772,1,0,True,False,False,Home
+11972765,Güemes,224646,0,1,False,False,True,Away
+11972767,SM Tucumán,23950,2,1,True,False,False,Home
+11972767,Deportivo Maipú,213042,1,2,False,False,True,Away
+11972771,Colón,3207,1,1,False,True,False,Home
+11972771,Atlanta,53799,1,1,False,True,False,Away
+12446640,Talleres R.E.,201162,1,0,True,False,False,Home
+12446640,Quilmes,4936,0,1,False,False,True,Away
+11972794,Atlético Rafaela,34976,0,0,False,True,False,Home
+11972794,Gimnasia y Tiro,222126,0,0,False,True,False,Away
+11972797,Atlanta,53799,1,1,False,True,False,Home
+11972797,Estudiantes R.C.,266694,1,1,False,True,False,Away
+11972799,Brown de Adrogué,107201,0,0,False,True,False,Home
+11972799,Talleres R.E.,201162,0,0,False,True,False,Away
+11972795,Deportivo Madryn,222120,1,0,True,False,False,Home
+11972795,Mitre,255425,0,1,False,False,True,Away
+11972790,Almagro,4938,0,0,False,True,False,Home
+11972790,Temperley,112499,0,0,False,True,False,Away
+11972793,San Telmo,213361,0,0,False,True,False,Home
+11972793,Gimnasia Mendoza,188441,0,0,False,True,False,Away
+11972787,Alvarado,273715,0,3,False,False,True,Home
+11972787,Agropecuario,265787,3,0,True,False,False,Away
+11972791,Defensores,52215,0,0,False,True,False,Home
+11972791,Dep. Morón,93109,0,0,False,True,False,Away
+11972796,Def. Unidos,93515,1,0,True,False,False,Home
+11972796,Aldosivi,36836,0,1,False,False,True,Away
+11972786,Güemes,224646,1,1,False,True,False,Home
+11972786,Guillermo Brown,53801,1,1,False,True,False,Away
+11972788,Racing de Córdoba,273657,1,0,True,False,False,Home
+11972788,All Boys,36834,0,1,False,False,True,Away
+11972782,San Miguel,264945,2,1,True,False,False,Home
+11972782,Chacarita Jrs.,3214,1,2,False,False,True,Away
+11972784,Deportivo Maipú,213042,1,0,True,False,False,Home
+11972784,Arsenal,3221,0,1,False,False,True,Away
+11972785,Gimnasia J.,5292,1,0,True,False,False,Home
+11972785,San Martín,7772,0,1,False,False,True,Away
+11972789,Patronato,43741,3,0,True,False,False,Home
+11972789,Tristán Suárez,93513,0,3,False,False,True,Away
+11972792,Chaco For Ever,252726,0,1,False,False,True,Home
+11972792,Nueva Chicago,3200,1,0,True,False,False,Away
+11972798,Almirante Brown,43740,0,0,False,True,False,Home
+11972798,Colón,3207,0,0,False,True,False,Away
+11972781,Quilmes,4936,1,0,True,False,False,Home
+11972781,Estudiantes B.A.,93107,0,1,False,False,True,Away
+11972783,Ferro Carril Oeste,36841,3,1,True,False,False,Home
+11972783,SM Tucumán,23950,1,3,False,False,True,Away
+11972815,Dep. Morón,93109,1,0,True,False,False,Home
+11972815,Chaco For Ever,252726,0,1,False,False,True,Away
+11972807,Chacarita Jrs.,3214,0,4,False,False,True,Home
+11972807,Quilmes,4936,4,0,True,False,False,Away
+11972817,Brown de Adrogué,107201,0,2,False,False,True,Home
+11972817,Almagro,4938,2,0,True,False,False,Away
+11972808,Estudiantes B.A.,93107,2,1,True,False,False,Home
+11972808,Talleres R.E.,201162,1,2,False,False,True,Away
+11972813,Gimnasia Mendoza,188441,2,1,True,False,False,Home
+11972813,Atlético Rafaela,34976,1,2,False,False,True,Away
+11972801,All Boys,36834,1,0,True,False,False,Home
+11972801,Alvarado,273715,0,1,False,False,True,Away
+11972816,Temperley,112499,0,0,False,True,False,Home
+11972816,Defensores,52215,0,0,False,True,False,Away
+11972800,Tristán Suárez,93513,1,0,True,False,False,Home
+11972800,Racing de Córdoba,273657,0,1,False,False,True,Away
+11972805,Arsenal,3221,0,0,False,True,False,Home
+11972805,Ferro Carril Oeste,36841,0,0,False,True,False,Away
+11972814,Nueva Chicago,3200,0,3,False,False,True,Home
+11972814,San Telmo,213361,3,0,True,False,False,Away
+11972810,Aldosivi,36836,2,1,True,False,False,Home
+11972810,Atlanta,53799,1,2,False,False,True,Away
+11972803,Guillermo Brown,53801,0,0,False,True,False,Home
+11972803,Gimnasia J.,5292,0,0,False,True,False,Away
+11972812,Gimnasia y Tiro,222126,0,0,False,True,False,Home
+11972812,Deportivo Madryn,222120,0,0,False,True,False,Away
+11972802,Agropecuario,265787,3,1,True,False,False,Home
+11972802,Güemes,224646,1,3,False,False,True,Away
+11972809,Estudiantes R.C.,266694,0,1,False,False,True,Home
+11972809,Almirante Brown,43740,1,0,True,False,False,Away
+11972811,Mitre,255425,1,0,True,False,False,Home
+11972811,Def. Unidos,93515,0,1,False,False,True,Away
+11972818,Patronato,43741,1,0,True,False,False,Home
+11972818,Colón,3207,0,1,False,False,True,Away
+11972806,SM Tucumán,23950,1,0,True,False,False,Home
+11972806,San Miguel,264945,0,1,False,False,True,Away
+11972804,San Martín,7772,1,0,True,False,False,Home
+11972804,Deportivo Maipú,213042,0,1,False,False,True,Away
+11972831,Atlético Rafaela,34976,1,5,False,False,True,Home
+11972831,Nueva Chicago,3200,5,1,True,False,False,Away
+11972829,Chaco For Ever,252726,0,1,False,False,True,Home
+11972829,Temperley,112499,1,0,True,False,False,Away
+11972837,Almagro,4938,1,0,True,False,False,Home
+11972837,Estudiantes B.A.,93107,0,1,False,False,True,Away
+11972835,Almirante Brown,43740,1,0,True,False,False,Home
+11972835,Aldosivi,36836,0,1,False,False,True,Away
+11972828,Defensores,52215,3,0,True,False,False,Home
+11972828,Brown de Adrogué,107201,0,3,False,False,True,Away
+11972825,Güemes,224646,2,1,True,False,False,Home
+11972825,All Boys,36834,1,2,False,False,True,Away
+11972821,San Miguel,264945,3,0,True,False,False,Home
+11972821,Arsenal,3221,0,3,False,False,True,Away
+11972826,Alvarado,273715,1,2,False,False,True,Home
+11972826,Tristán Suárez,93513,2,1,True,False,False,Away
+11972836,Colón,3207,3,0,True,False,False,Home
+11972836,Estudiantes R.C.,266694,0,3,False,False,True,Away
+11972822,Ferro Carril Oeste,36841,0,0,False,True,False,Home
+11972822,San Martín,7772,0,0,False,True,False,Away
+11972830,San Telmo,213361,1,1,False,True,False,Home
+11972830,Dep. Morón,93109,1,1,False,True,False,Away
+11972833,Def. Unidos,93515,0,1,False,False,True,Home
+11972833,Gimnasia y Tiro,222126,1,0,True,False,False,Away
+11972832,Deportivo Madryn,222120,0,2,False,False,True,Home
+11972832,Gimnasia Mendoza,188441,2,0,True,False,False,Away
+11972823,Deportivo Maipú,213042,1,0,True,False,False,Home
+11972823,Guillermo Brown,53801,0,1,False,False,True,Away
+11972824,Gimnasia J.,5292,1,1,False,True,False,Home
+11972824,Agropecuario,265787,1,1,False,True,False,Away
+11972827,Racing de Córdoba,273657,1,0,True,False,False,Home
+11972827,Patronato,43741,0,1,False,False,True,Away
+11972819,Talleres R.E.,201162,2,1,True,False,False,Home
+11972819,Chacarita Jrs.,3214,1,2,False,False,True,Away
+12524363,Atlanta,53799,0,0,False,True,False,Home
+12524363,Mitre,255425,0,0,False,True,False,Away
+12543203,Quilmes,4936,1,2,False,False,True,Home
+12543203,SM Tucumán,23950,2,1,True,False,False,Away
+11972855,Almagro,4938,1,0,True,False,False,Home
+11972855,Defensores,52215,0,1,False,False,True,Away
+11972853,Temperley,112499,0,0,False,True,False,Home
+11972853,San Telmo,213361,0,0,False,True,False,Away
+11972847,Aldosivi,36836,1,0,True,False,False,Home
+11972847,Colón,3207,0,1,False,False,True,Away
+11972844,Arsenal,3221,0,0,False,True,False,Home
+11972844,Quilmes,4936,0,0,False,True,False,Away
+11972854,Brown de Adrogué,107201,0,0,False,True,False,Home
+11972854,Chaco For Ever,252726,0,0,False,True,False,Away
+11972846,Chacarita Jrs.,3214,1,1,False,True,False,Home
+11972846,Estudiantes B.A.,93107,1,1,False,True,False,Away
+11972851,Nueva Chicago,3200,1,1,False,True,False,Home
+11972851,Deportivo Madryn,222120,1,1,False,True,False,Away
+11972839,Tristán Suárez,93513,1,1,False,True,False,Home
+11972839,Güemes,224646,1,1,False,True,False,Away
+11972848,Mitre,255425,2,1,True,False,False,Home
+11972848,Almirante Brown,43740,1,2,False,False,True,Away
+11972852,Dep. Morón,93109,1,1,False,True,False,Home
+11972852,Atlético Rafaela,34976,1,1,False,True,False,Away
+11972840,All Boys,36834,0,1,False,False,True,Home
+11972840,Gimnasia J.,5292,1,0,True,False,False,Away
+11972850,Gimnasia Mendoza,188441,2,0,True,False,False,Home
+11972850,Def. Unidos,93515,0,2,False,False,True,Away
+11972842,Guillermo Brown,53801,3,1,True,False,False,Home
+11972842,Ferro Carril Oeste,36841,1,3,False,False,True,Away
+11972849,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972849,Atlanta,53799,0,1,False,False,True,Away
+11972841,Agropecuario,265787,0,0,False,True,False,Home
+11972841,Deportivo Maipú,213042,0,0,False,True,False,Away
+11972838,Patronato,43741,1,3,False,False,True,Home
+11972838,Alvarado,273715,3,1,True,False,False,Away
+11972843,San Martín,7772,2,0,True,False,False,Home
+11972843,San Miguel,264945,0,2,False,False,True,Away
+11972856,Racing de Córdoba,273657,0,1,False,False,True,Home
+11972856,Estudiantes R.C.,266694,1,0,True,False,False,Away
+11972845,SM Tucumán,23950,1,0,True,False,False,Home
+11972845,Talleres R.E.,201162,0,1,False,False,True,Away
+11972857,Estudiantes B.A.,93107,1,3,False,False,True,Home
+11972857,SM Tucumán,23950,3,1,True,False,False,Away
+11972864,Güemes,224646,2,1,True,False,False,Home
+11972864,Patronato,43741,1,2,False,False,True,Away
+11972860,San Miguel,264945,1,0,True,False,False,Home
+11972860,Guillermo Brown,53801,0,1,False,False,True,Away
+11972870,Def. Unidos,93515,1,2,False,False,True,Home
+11972870,Nueva Chicago,3200,2,1,True,False,False,Away
+11972869,Deportivo Madryn,222120,0,0,False,True,False,Home
+11972869,Dep. Morón,93109,0,0,False,True,False,Away
+11972866,Chaco For Ever,252726,1,1,False,True,False,Home
+11972866,Almagro,4938,1,1,False,True,False,Away
+11972872,Almirante Brown,43740,0,0,False,True,False,Home
+11972872,Gimnasia y Tiro,222126,0,0,False,True,False,Away
+11972858,Talleres R.E.,201162,0,0,False,True,False,Home
+11972858,Arsenal,3221,0,0,False,True,False,Away
+11972867,San Telmo,213361,3,0,True,False,False,Home
+11972867,Brown de Adrogué,107201,0,3,False,False,True,Away
+11972862,Deportivo Maipú,213042,1,2,False,False,True,Home
+11972862,All Boys,36834,2,1,True,False,False,Away
+11972865,Alvarado,273715,3,0,True,False,False,Home
+11972865,Racing de Córdoba,273657,0,3,False,False,True,Away
+11972863,Gimnasia J.,5292,1,0,True,False,False,Home
+11972863,Tristán Suárez,93513,0,1,False,False,True,Away
+11972875,Defensores,52215,2,2,False,True,False,Home
+11972875,Chacarita Jrs.,3214,2,2,False,True,False,Away
+11972871,Atlanta,53799,1,2,False,False,True,Home
+11972871,Gimnasia Mendoza,188441,2,1,True,False,False,Away
+12607219,Ferro Carril Oeste,36841,3,0,True,False,False,Home
+12607219,Agropecuario,265787,0,3,False,False,True,Away
+11972874,Estudiantes R.C.,266694,2,2,False,True,False,Home
+11972874,Aldosivi,36836,2,2,False,True,False,Away
+12601482,Atlético Rafaela,34976,1,0,True,False,False,Home
+12601482,Temperley,112499,0,1,False,False,True,Away
+12606627,Quilmes,4936,0,1,False,False,True,Home
+12606627,San Martín,7772,1,0,True,False,False,Away
+12617084,Colón,3207,1,2,False,False,True,Home
+12617084,Mitre,255425,2,1,True,False,False,Away
+11972883,Arsenal,3221,1,1,False,True,False,Home
+11972883,Estudiantes B.A.,93107,1,1,False,True,False,Away
+11972889,Dep. Morón,93109,1,1,False,True,False,Home
+11972889,Def. Unidos,93515,1,1,False,True,False,Away
+11972882,San Martín,7772,3,1,True,False,False,Home
+11972882,Talleres R.E.,201162,1,3,False,False,True,Away
+11972878,Tristán Suárez,93513,1,2,False,False,True,Home
+11972878,Deportivo Maipú,213042,2,1,True,False,False,Away
+11972892,Almagro,4938,1,1,False,True,False,Home
+11972892,San Telmo,213361,1,1,False,True,False,Away
+11972894,Alvarado,273715,1,0,True,False,False,Home
+11972894,Aldosivi,36836,0,1,False,False,True,Away
+11972891,Brown de Adrogué,107201,1,0,True,False,False,Home
+11972891,Atlético Rafaela,34976,0,1,False,False,True,Away
+11972893,Defensores,52215,0,0,False,True,False,Home
+11972893,Chaco For Ever,252726,0,0,False,True,False,Away
+11972887,Gimnasia Mendoza,188441,1,0,True,False,False,Home
+11972887,Almirante Brown,43740,0,1,False,False,True,Away
+11972881,Guillermo Brown,53801,1,2,False,False,True,Home
+11972881,Quilmes,4936,2,1,True,False,False,Away
+11972888,Nueva Chicago,3200,0,1,False,False,True,Home
+11972888,Atlanta,53799,1,0,True,False,False,Away
+11972880,Agropecuario,265787,2,1,True,False,False,Home
+11972880,San Miguel,264945,1,2,False,False,True,Away
+11972885,Mitre,255425,0,0,False,True,False,Home
+11972885,Estudiantes R.C.,266694,0,0,False,True,False,Away
+11972877,Patronato,43741,1,0,True,False,False,Home
+11972877,Gimnasia J.,5292,0,1,False,False,True,Away
+11972876,Racing de Córdoba,273657,2,0,True,False,False,Home
+11972876,Güemes,224646,0,2,False,False,True,Away
+11972884,SM Tucumán,23950,1,0,True,False,False,Home
+11972884,Chacarita Jrs.,3214,0,1,False,False,True,Away
+11972879,All Boys,36834,3,0,True,False,False,Home
+11972879,Ferro Carril Oeste,36841,0,3,False,False,True,Away
+11972886,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972886,Colón,3207,0,1,False,False,True,Away
+11972890,Temperley,112499,0,1,False,False,True,Home
+11972890,Deportivo Madryn,222120,1,0,True,False,False,Away
+11972906,Deportivo Madryn,222120,2,1,True,False,False,Home
+11972906,Brown de Adrogué,107201,1,2,False,False,True,Away
+11972896,Estudiantes B.A.,93107,0,0,False,True,False,Home
+11972896,San Martín,7772,0,0,False,True,False,Away
+11972900,Ferro Carril Oeste,36841,2,2,False,True,False,Home
+11972900,Tristán Suárez,93513,2,2,False,True,False,Away
+11972903,Güemes,224646,2,1,True,False,False,Home
+11972903,Alvarado,273715,1,2,False,False,True,Away
+11972899,San Miguel,264945,2,1,True,False,False,Home
+11972899,All Boys,36834,1,2,False,False,True,Away
+11972913,Chaco For Ever,252726,0,1,False,False,True,Home
+11972913,SM Tucumán,23950,1,0,True,False,False,Away
+11972912,Aldosivi,36836,0,0,False,True,False,Home
+11972912,Mitre,255425,0,0,False,True,False,Away
+11972895,Chacarita Jrs.,3214,0,0,False,True,False,Home
+11972895,Arsenal,3221,0,0,False,True,False,Away
+11972907,Def. Unidos,93515,3,1,True,False,False,Home
+11972907,Temperley,112499,1,3,False,False,True,Away
+11972904,San Telmo,213361,1,2,False,False,True,Home
+11972904,Defensores,52215,2,1,True,False,False,Away
+11972901,Deportivo Maipú,213042,3,1,True,False,False,Home
+11972901,Patronato,43741,1,3,False,False,True,Away
+11972902,Gimnasia J.,5292,0,1,False,False,True,Home
+11972902,Racing de Córdoba,273657,1,0,True,False,False,Away
+11972911,Estudiantes R.C.,266694,0,1,False,False,True,Home
+11972911,Gimnasia y Tiro,222126,1,0,True,False,False,Away
+11972909,Almirante Brown,43740,0,1,False,False,True,Home
+11972909,Nueva Chicago,3200,1,0,True,False,False,Away
+11972905,Atlético Rafaela,34976,2,3,False,False,True,Home
+11972905,Almagro,4938,3,2,True,False,False,Away
+11972910,Colón,3207,1,0,True,False,False,Home
+11972910,Gimnasia Mendoza,188441,0,1,False,False,True,Away
+11972897,Talleres R.E.,201162,1,1,False,True,False,Home
+11972897,Guillermo Brown,53801,1,1,False,True,False,Away
+12682790,Quilmes,4936,1,0,True,False,False,Home
+12682790,Agropecuario,265787,0,1,False,False,True,Away
+12682789,Atlanta,53799,1,0,True,False,False,Home
+12682789,Dep. Morón,93109,0,1,False,False,True,Away
+11972922,Arsenal,3221,1,1,False,True,False,Home
+11972922,SM Tucumán,23950,1,1,False,True,False,Away
+11972928,Brown de Adrogué,107201,2,1,True,False,False,Home
+11972928,Def. Unidos,93515,1,2,False,False,True,Away
+11972932,Güemes,224646,0,0,False,True,False,Home
+11972932,Mitre,255425,0,0,False,True,False,Away
+11972917,Tristán Suárez,93513,1,1,False,True,False,Home
+11972917,San Miguel,264945,1,1,False,True,False,Away
+11972930,Defensores,52215,0,0,False,True,False,Home
+11972930,Atlético Rafaela,34976,0,0,False,True,False,Away
+11972926,Dep. Morón,93109,0,1,False,False,True,Home
+11972926,Almirante Brown,43740,1,0,True,False,False,Away
+11972927,Temperley,112499,1,1,False,True,False,Home
+11972927,Atlanta,53799,1,1,False,True,False,Away
+11972929,Almagro,4938,0,1,False,False,True,Home
+11972929,Deportivo Madryn,222120,1,0,True,False,False,Away
+11972914,Alvarado,273715,1,0,True,False,False,Home
+11972914,Gimnasia J.,5292,0,1,False,False,True,Away
+11972920,Guillermo Brown,53801,3,1,True,False,False,Home
+11972920,Estudiantes B.A.,93107,1,3,False,False,True,Away
+11972924,Gimnasia Mendoza,188441,0,0,False,True,False,Home
+11972924,Estudiantes R.C.,266694,0,0,False,True,False,Away
+11972923,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972923,Aldosivi,36836,0,1,False,False,True,Away
+11972919,Agropecuario,265787,2,0,True,False,False,Home
+11972919,Talleres R.E.,201162,0,2,False,False,True,Away
+12720698,Chaco For Ever,252726,1,0,True,False,False,Home
+12720698,San Telmo,213361,0,1,False,False,True,Away
+11972916,Patronato,43741,1,3,False,False,True,Home
+11972916,Ferro Carril Oeste,36841,3,1,True,False,False,Away
+11972921,San Martín,7772,4,0,True,False,False,Home
+11972921,Chacarita Jrs.,3214,0,4,False,False,True,Away
+11972915,Racing de Córdoba,273657,3,2,True,False,False,Home
+11972915,Deportivo Maipú,213042,2,3,False,False,True,Away
+11972925,Nueva Chicago,3200,1,0,True,False,False,Home
+11972925,Colón,3207,0,1,False,False,True,Away
+12689919,All Boys,36834,0,0,False,True,False,Home
+12689919,Quilmes,4936,0,0,False,True,False,Away
+11972942,Atlético Rafaela,34976,0,1,False,False,True,Home
+11972942,Chaco For Ever,252726,1,0,True,False,False,Away
+11972933,SM Tucumán,23950,1,0,True,False,False,Home
+11972933,San Martín,7772,0,1,False,False,True,Away
+11972941,Gimnasia J.,5292,1,0,True,False,False,Home
+11972941,Güemes,224646,0,1,False,False,True,Away
+11972949,Aldosivi,36836,0,0,False,True,False,Home
+11972949,Gimnasia Mendoza,188441,0,0,False,True,False,Away
+11972946,Almirante Brown,43740,0,0,False,True,False,Home
+11972946,Temperley,112499,0,0,False,True,False,Away
+11972934,Chacarita Jrs.,3214,1,0,True,False,False,Home
+11972934,Guillermo Brown,53801,0,1,False,False,True,Away
+11972943,Deportivo Madryn,222120,0,0,False,True,False,Home
+11972943,Defensores,52215,0,0,False,True,False,Away
+11972939,Ferro Carril Oeste,36841,2,0,True,False,False,Home
+11972939,Racing de Córdoba,273657,0,2,False,False,True,Away
+11972940,Deportivo Maipú,213042,1,1,False,True,False,Home
+11972940,Alvarado,273715,1,1,False,True,False,Away
+11972950,Mitre,255425,2,1,True,False,False,Home
+11972950,Gimnasia y Tiro,222126,1,2,False,False,True,Away
+11972948,Estudiantes R.C.,266694,1,0,True,False,False,Home
+11972948,Nueva Chicago,3200,0,1,False,False,True,Away
+11972937,Quilmes,4936,0,1,False,False,True,Home
+11972937,Tristán Suárez,93513,1,0,True,False,False,Away
+11972947,Colón,3207,1,0,True,False,False,Home
+11972947,Dep. Morón,93109,0,1,False,False,True,Away
+11972944,Def. Unidos,93515,1,1,False,True,False,Home
+11972944,Almagro,4938,1,1,False,True,False,Away
+11972938,San Miguel,264945,2,4,False,False,True,Home
+11972938,Patronato,43741,4,2,True,False,False,Away
+11972951,San Telmo,213361,4,0,True,False,False,Home
+11972951,Arsenal,3221,0,4,False,False,True,Away
+11972936,Talleres R.E.,201162,2,2,False,True,False,Home
+11972936,All Boys,36834,2,2,False,True,False,Away
+12770158,Estudiantes B.A.,93107,1,0,True,False,False,Home
+12770158,Agropecuario,265787,0,1,False,False,True,Away
+11972945,Atlanta,53799,1,0,True,False,False,Home
+11972945,Brown de Adrogué,107201,0,1,False,False,True,Away
+11972962,Nueva Chicago,3200,2,1,True,False,False,Home
+11972962,Aldosivi,36836,1,2,False,False,True,Away
+11972958,Agropecuario,265787,2,0,True,False,False,Home
+11972958,Chacarita Jrs.,3214,0,2,False,False,True,Away
+11972966,Almagro,4938,0,0,False,True,False,Home
+11972966,Atlanta,53799,0,0,False,True,False,Away
+11972952,Güemes,224646,4,0,True,False,False,Home
+11972952,Deportivo Maipú,213042,0,4,False,False,True,Away
+11972960,San Martín,7772,0,0,False,True,False,Home
+11972960,Arsenal,3221,0,0,False,True,False,Away
+11972964,Temperley,112499,1,0,True,False,False,Home
+11972964,Colón,3207,0,1,False,False,True,Away
+11972968,Chaco For Ever,252726,0,1,False,False,True,Home
+11972968,Deportivo Madryn,222120,1,0,True,False,False,Away
+11972956,Tristán Suárez,93513,2,2,False,True,False,Home
+11972956,Talleres R.E.,201162,2,2,False,True,False,Away
+11972969,San Telmo,213361,3,2,True,False,False,Home
+11972969,Atlético Rafaela,34976,2,3,False,False,True,Away
+11972965,Brown de Adrogué,107201,2,2,False,True,False,Home
+11972965,Almirante Brown,43740,2,2,False,True,False,Away
+11972967,Defensores,52215,2,0,True,False,False,Home
+11972967,Def. Unidos,93515,0,2,False,False,True,Away
+11972959,Guillermo Brown,53801,0,1,False,False,True,Home
+11972959,SM Tucumán,23950,1,0,True,False,False,Away
+11972953,Alvarado,273715,0,2,False,False,True,Home
+11972953,Ferro Carril Oeste,36841,2,0,True,False,False,Away
+11972970,Gimnasia J.,5292,2,0,True,False,False,Home
+11972970,Gimnasia y Tiro,222126,0,2,False,False,True,Away
+11972961,Gimnasia Mendoza,188441,1,1,False,True,False,Home
+11972961,Mitre,255425,1,1,False,True,False,Away
+11972954,Racing de Córdoba,273657,1,0,True,False,False,Home
+11972954,San Miguel,264945,0,1,False,False,True,Away
+11972957,All Boys,36834,0,0,False,True,False,Home
+11972957,Estudiantes B.A.,93107,0,0,False,True,False,Away
+11972963,Dep. Morón,93109,2,1,True,False,False,Home
+11972963,Estudiantes R.C.,266694,1,2,False,False,True,Away
+11972955,Patronato,43741,1,1,False,True,False,Home
+11972955,Quilmes,4936,1,1,False,True,False,Away
+11972988,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11972988,Gimnasia Mendoza,188441,0,1,False,False,True,Away
+11972983,Almirante Brown,43740,1,2,False,False,True,Home
+11972983,Almagro,4938,2,1,True,False,False,Away
+11972985,Estudiantes R.C.,266694,0,0,False,True,False,Home
+11972985,Temperley,112499,0,0,False,True,False,Away
+11972977,San Miguel,264945,2,0,True,False,False,Home
+11972977,Alvarado,273715,0,2,False,False,True,Away
+11972975,Talleres R.E.,201162,1,0,True,False,False,Home
+11972975,Patronato,43741,0,1,False,False,True,Away
+11972986,Aldosivi,36836,3,0,True,False,False,Home
+11972986,Dep. Morón,93109,0,3,False,False,True,Away
+11972974,Estudiantes B.A.,93107,2,2,False,True,False,Home
+11972974,Tristán Suárez,93513,2,2,False,True,False,Away
+11972989,Atlético Rafaela,34976,0,0,False,True,False,Home
+11972989,San Martín,7772,0,0,False,True,False,Away
+11972971,Arsenal,3221,2,0,True,False,False,Home
+11972971,Guillermo Brown,53801,0,2,False,False,True,Away
+11972982,Atlanta,53799,0,0,False,True,False,Home
+11972982,Defensores,52215,0,0,False,True,False,Away
+11972978,Ferro Carril Oeste,36841,1,1,False,True,False,Home
+11972978,Güemes,224646,1,1,False,True,False,Away
+11972981,Def. Unidos,93515,0,0,False,True,False,Home
+11972981,Chaco For Ever,252726,0,0,False,True,False,Away
+11972973,Chacarita Jrs.,3214,0,1,False,False,True,Home
+11972973,All Boys,36834,1,0,True,False,False,Away
+11972980,Deportivo Madryn,222120,1,0,True,False,False,Home
+11972980,San Telmo,213361,0,1,False,False,True,Away
+11972979,Deportivo Maipú,213042,2,0,True,False,False,Home
+11972979,Gimnasia J.,5292,0,2,False,False,True,Away
+11972987,Mitre,255425,0,0,False,True,False,Home
+11972987,Nueva Chicago,3200,0,0,False,True,False,Away
+11972984,Colón,3207,0,2,False,False,True,Home
+11972984,Brown de Adrogué,107201,2,0,True,False,False,Away
+11972976,Quilmes,4936,1,0,True,False,False,Home
+11972976,Racing de Córdoba,273657,0,1,False,False,True,Away
+11972972,SM Tucumán,23950,1,0,True,False,False,Home
+11972972,Agropecuario,265787,0,1,False,False,True,Away
+11973007,Atlético Rafaela,34976,0,0,False,True,False,Home
+11973007,Deportivo Madryn,222120,0,0,False,True,False,Away
+11973003,Almagro,4938,0,2,False,False,True,Home
+11973003,Colón,3207,2,0,True,False,False,Away
+11972991,Güemes,224646,2,0,True,False,False,Home
+11972991,San Miguel,264945,0,2,False,False,True,Away
+11972995,Tristán Suárez,93513,0,0,False,True,False,Home
+11972995,Chacarita Jrs.,3214,0,0,False,True,False,Away
+11973000,Dep. Morón,93109,1,2,False,False,True,Home
+11973000,Mitre,255425,2,1,True,False,False,Away
+11972992,Alvarado,273715,0,0,False,True,False,Home
+11972992,Quilmes,4936,0,0,False,True,False,Away
+11973002,Brown de Adrogué,107201,0,0,False,True,False,Home
+11973002,Estudiantes R.C.,266694,0,0,False,True,False,Away
+11972999,Nueva Chicago,3200,2,0,True,False,False,Home
+11972999,Gimnasia y Tiro,222126,0,2,False,False,True,Away
+11972998,Guillermo Brown,53801,0,2,False,False,True,Home
+11972998,San Martín,7772,2,0,True,False,False,Away
+11972990,Gimnasia J.,5292,1,0,True,False,False,Home
+11972990,Ferro Carril Oeste,36841,0,1,False,False,True,Away
+11972994,Patronato,43741,4,0,True,False,False,Home
+11972994,Estudiantes B.A.,93107,0,4,False,False,True,Away
+11973008,Deportivo Maipú,213042,0,0,False,True,False,Home
+11973008,Gimnasia Mendoza,188441,0,0,False,True,False,Away
+11972997,Agropecuario,265787,1,0,True,False,False,Home
+11972997,Arsenal,3221,0,1,False,False,True,Away
+11972996,All Boys,36834,0,1,False,False,True,Home
+11972996,SM Tucumán,23950,1,0,True,False,False,Away
+11973004,Defensores,52215,3,0,True,False,False,Home
+11973004,Almirante Brown,43740,0,3,False,False,True,Away
+11973006,San Telmo,213361,2,0,True,False,False,Home
+11973006,Def. Unidos,93515,0,2,False,False,True,Away
+11973001,Temperley,112499,0,0,False,True,False,Home
+11973001,Aldosivi,36836,0,0,False,True,False,Away
+11973005,Chaco For Ever,252726,2,1,True,False,False,Home
+11973005,Atlanta,53799,1,2,False,False,True,Away
+11972993,Racing de Córdoba,273657,1,1,False,True,False,Home
+11972993,Talleres R.E.,201162,1,1,False,True,False,Away
+11973016,San Miguel,264945,1,1,False,True,False,Home
+11973016,Gimnasia J.,5292,1,1,False,True,False,Away
+11973013,Estudiantes B.A.,93107,1,0,True,False,False,Home
+11973013,Racing de Córdoba,273657,0,1,False,False,True,Away
+11973012,Chacarita Jrs.,3214,1,0,True,False,False,Home
+11973012,Patronato,43741,0,1,False,False,True,Away
+11973014,Talleres R.E.,201162,0,2,False,False,True,Home
+11973014,Alvarado,273715,2,0,True,False,False,Away
+11973021,Colón,3207,2,0,True,False,False,Home
+11973021,Defensores,52215,0,2,False,False,True,Away
+11973015,Quilmes,4936,1,0,True,False,False,Home
+11973015,Güemes,224646,0,1,False,False,True,Away
+11973027,Deportivo Madryn,222120,1,0,True,False,False,Home
+11973027,Guillermo Brown,53801,0,1,False,False,True,Away
+11973010,Arsenal,3221,0,1,False,False,True,Home
+11973010,All Boys,36834,1,0,True,False,False,Away
+11973018,Def. Unidos,93515,0,0,False,True,False,Home
+11973018,Atlético Rafaela,34976,0,0,False,True,False,Away
+11973023,Aldosivi,36836,2,0,True,False,False,Home
+11973023,Brown de Adrogué,107201,0,2,False,False,True,Away
+11973020,Almirante Brown,43740,3,0,True,False,False,Home
+11973020,Chaco For Ever,252726,0,3,False,False,True,Away
+11973025,Gimnasia y Tiro,222126,1,1,False,True,False,Home
+11973025,Dep. Morón,93109,1,1,False,True,False,Away
+11973026,Gimnasia Mendoza,188441,2,1,True,False,False,Home
+11973026,Nueva Chicago,3200,1,2,False,False,True,Away
+11973009,San Martín,7772,0,0,False,True,False,Home
+11973009,Agropecuario,265787,0,0,False,True,False,Away
+11973024,Mitre,255425,0,0,False,True,False,Home
+11973024,Temperley,112499,0,0,False,True,False,Away
+11973022,Estudiantes R.C.,266694,1,0,True,False,False,Home
+11973022,Almagro,4938,0,1,False,False,True,Away
+11973011,SM Tucumán,23950,1,0,True,False,False,Home
+11973011,Tristán Suárez,93513,0,1,False,False,True,Away
+12867816,Ferro Carril Oeste,36841,2,2,False,True,False,Home
+12867816,Deportivo Maipú,213042,2,2,False,True,False,Away
+12867817,Atlanta,53799,2,0,True,False,False,Home
+12867817,San Telmo,213361,0,2,False,False,True,Away
+11973041,Defensores,52215,0,0,False,True,False,Home
+11973041,Estudiantes R.C.,266694,0,0,False,True,False,Away
+11973032,Racing de Córdoba,273657,1,1,False,True,False,Home
+11973032,Chacarita Jrs.,3214,1,1,False,True,False,Away
+11973030,Güemes,224646,2,1,True,False,False,Home
+11973030,Talleres R.E.,201162,1,2,False,False,True,Away
+11973043,San Telmo,213361,0,1,False,False,True,Home
+11973043,Almirante Brown,43740,1,0,True,False,False,Away
+11973040,Almagro,4938,1,2,False,False,True,Home
+11973040,Aldosivi,36836,2,1,True,False,False,Away
+11973038,Temperley,112499,1,1,False,True,False,Home
+11973038,Gimnasia y Tiro,222126,1,1,False,True,False,Away
+11973036,Agropecuario,265787,2,1,True,False,False,Home
+11973036,Guillermo Brown,53801,1,2,False,False,True,Away
+11973042,Chaco For Ever,252726,0,0,False,True,False,Home
+11973042,Colón,3207,0,0,False,True,False,Away
+11973035,All Boys,36834,4,0,True,False,False,Home
+11973035,San Martín,7772,0,4,False,False,True,Away
+11973031,Alvarado,273715,0,1,False,False,True,Home
+11973031,Estudiantes B.A.,93107,1,0,True,False,False,Away
+11973039,Brown de Adrogué,107201,2,2,False,True,False,Home
+11973039,Mitre,255425,2,2,False,True,False,Away
+11973045,Deportivo Madryn,222120,3,0,True,False,False,Home
+11973045,Def. Unidos,93515,0,3,False,False,True,Away
+11973034,Tristán Suárez,93513,2,0,True,False,False,Home
+11973034,Arsenal,3221,0,2,False,False,True,Away
+11973029,Gimnasia J.,5292,0,2,False,False,True,Home
+11973029,Quilmes,4936,2,0,True,False,False,Away
+11973028,Deportivo Maipú,213042,1,1,False,True,False,Home
+11973028,San Miguel,264945,1,1,False,True,False,Away
+11973033,Patronato,43741,0,1,False,False,True,Home
+11973033,SM Tucumán,23950,1,0,True,False,False,Away
+11973044,Atlético Rafaela,34976,2,0,True,False,False,Home
+11973044,Atlanta,53799,0,2,False,False,True,Away
+11973046,Ferro Carril Oeste,36841,1,2,False,False,True,Home
+11973046,Nueva Chicago,3200,2,1,True,False,False,Away
+11973037,Dep. Morón,93109,0,1,False,False,True,Home
+11973037,Gimnasia Mendoza,188441,1,0,True,False,False,Away
+11973055,San Miguel,264945,0,0,False,True,False,Home
+11973055,Ferro Carril Oeste,36841,0,0,False,True,False,Away
+11973060,Aldosivi,36836,0,1,False,False,True,Home
+11973060,Defensores,52215,1,0,True,False,False,Away
+11973049,Arsenal,3221,2,0,True,False,False,Home
+11973049,Patronato,43741,0,2,False,False,True,Away
+11973052,Estudiantes B.A.,93107,2,0,True,False,False,Home
+11973052,Güemes,224646,0,2,False,False,True,Away
+11973058,Colón,3207,0,1,False,False,True,Home
+11973058,San Telmo,213361,1,0,True,False,False,Away
+11973048,San Martín,7772,3,2,True,False,False,Home
+11973048,Tristán Suárez,93513,2,3,False,False,True,Away
+11973053,Talleres R.E.,201162,0,1,False,False,True,Home
+11973053,Gimnasia J.,5292,1,0,True,False,False,Away
+11973047,Guillermo Brown,53801,0,0,False,True,False,Home
+11973047,All Boys,36834,0,0,False,True,False,Away
+11973064,Nueva Chicago,3200,1,1,False,True,False,Home
+11973064,Dep. Morón,93109,1,1,False,True,False,Away
+11973054,Quilmes,4936,3,0,True,False,False,Home
+11973054,Deportivo Maipú,213042,0,3,False,False,True,Away
+11973051,Chacarita Jrs.,3214,2,1,True,False,False,Home
+11973051,Alvarado,273715,1,2,False,False,True,Away
+11973065,Def. Unidos,93515,3,3,False,True,False,Home
+11973065,Agropecuario,265787,3,3,False,True,False,Away
+11973062,Gimnasia y Tiro,222126,0,1,False,False,True,Home
+11973062,Brown de Adrogué,107201,1,0,True,False,False,Away
+11973061,Mitre,255425,2,1,True,False,False,Home
+11973061,Almagro,4938,1,2,False,False,True,Away
+11973059,Estudiantes R.C.,266694,0,0,False,True,False,Home
+11973059,Chaco For Ever,252726,0,0,False,True,False,Away
+11973063,Gimnasia Mendoza,188441,1,2,False,False,True,Home
+11973063,Temperley,112499,2,1,True,False,False,Away
+11973050,SM Tucumán,23950,2,2,False,True,False,Home
+11973050,Racing de Córdoba,273657,2,2,False,True,False,Away
+11973057,Almirante Brown,43740,1,2,False,False,True,Home
+11973057,Atlético Rafaela,34976,2,1,True,False,False,Away
+12928823,Atlanta,53799,1,1,False,True,False,Home
+12928823,Deportivo Madryn,222120,1,1,False,True,False,Away
+11973069,Güemes,224646,2,1,True,False,False,Home
+11973069,Chacarita Jrs.,3214,1,2,False,False,True,Away
+11973066,Ferro Carril Oeste,36841,0,2,False,False,True,Home
+11973066,Quilmes,4936,2,0,True,False,False,Away
+11973077,Almagro,4938,0,3,False,False,True,Home
+11973077,Gimnasia y Tiro,222126,3,0,True,False,False,Away
+11973078,Defensores,52215,0,0,False,True,False,Home
+11973078,Mitre,255425,0,0,False,True,False,Away
+11973083,Def. Unidos,93515,0,1,False,False,True,Home
+11973083,Atlanta,53799,1,0,True,False,False,Away
+11973084,San Miguel,264945,0,1,False,False,True,Home
+11973084,Dep. Morón,93109,1,0,True,False,False,Away
+11973070,Alvarado,273715,0,2,False,False,True,Home
+11973070,SM Tucumán,23950,2,0,True,False,False,Away
+11973071,Racing de Córdoba,273657,3,1,True,False,False,Home
+11973071,Arsenal,3221,1,3,False,False,True,Away
+11973079,Chaco For Ever,252726,1,1,False,True,False,Home
+11973079,Aldosivi,36836,1,1,False,True,False,Away
+11973082,Deportivo Madryn,222120,5,1,True,False,False,Home
+11973082,Almirante Brown,43740,1,5,False,False,True,Away
+11973080,San Telmo,213361,2,0,True,False,False,Home
+11973080,Estudiantes R.C.,266694,0,2,False,False,True,Away
+11973068,Gimnasia J.,5292,2,1,True,False,False,Home
+11973068,Estudiantes B.A.,93107,1,2,False,False,True,Away
+11973067,Deportivo Maipú,213042,0,0,False,True,False,Home
+11973067,Talleres R.E.,201162,0,0,False,True,False,Away
+11973081,Atlético Rafaela,34976,0,0,False,True,False,Home
+11973081,Colón,3207,0,0,False,True,False,Away
+11973072,Patronato,43741,0,3,False,False,True,Home
+11973072,San Martín,7772,3,0,True,False,False,Away
+11973075,Temperley,112499,0,0,False,True,False,Home
+11973075,Nueva Chicago,3200,0,0,False,True,False,Away
+11973073,Tristán Suárez,93513,3,2,True,False,False,Home
+11973073,Guillermo Brown,53801,2,3,False,False,True,Away
+12967299,All Boys,36834,3,0,True,False,False,Home
+12967299,Agropecuario,265787,0,3,False,False,True,Away
+12966692,Brown de Adrogué,107201,0,0,False,True,False,Home
+12966692,Gimnasia Mendoza,188441,0,0,False,True,False,Away
+11973095,Colón,3207,1,1,False,True,False,Home
+11973095,Deportivo Madryn,222120,1,1,False,True,False,Away
+11973096,Estudiantes R.C.,266694,0,0,False,True,False,Home
+11973096,Atlético Rafaela,34976,0,0,False,True,False,Away
+11973100,Gimnasia Mendoza,188441,3,1,True,False,False,Home
+11973100,Almagro,4938,1,3,False,False,True,Away
+11973099,Gimnasia y Tiro,222126,1,0,True,False,False,Home
+11973099,Defensores,52215,0,1,False,False,True,Away
+11973098,Mitre,255425,1,0,True,False,False,Home
+11973098,Chaco For Ever,252726,0,1,False,False,True,Away
+11973101,Nueva Chicago,3200,1,1,False,True,False,Home
+11973101,Brown de Adrogué,107201,1,1,False,True,False,Away
+11973097,Aldosivi,36836,2,0,True,False,False,Home
+11973097,San Telmo,213361,0,2,False,False,True,Away
+11973089,SM Tucumán,23950,2,2,False,True,False,Home
+11973089,Güemes,224646,2,2,False,True,False,Away
+11973094,Almirante Brown,43740,1,1,False,True,False,Home
+11973094,Def. Unidos,93515,1,1,False,True,False,Away
+11973085,Agropecuario,265787,0,2,False,False,True,Home
+11973085,Tristán Suárez,93513,2,0,True,False,False,Away
+11973088,Arsenal,3221,1,0,True,False,False,Home
+11973088,Alvarado,273715,0,1,False,False,True,Away
+11973103,Atlanta,53799,0,1,False,False,True,Home
+11973103,All Boys,36834,1,0,True,False,False,Away
+11973090,Chacarita Jrs.,3214,0,0,False,True,False,Home
+11973090,Gimnasia J.,5292,0,0,False,True,False,Away
+11973091,Estudiantes B.A.,93107,2,1,True,False,False,Home
+11973091,Deportivo Maipú,213042,1,2,False,False,True,Away
+11973086,Guillermo Brown,53801,1,3,False,False,True,Home
+11973086,Patronato,43741,3,1,True,False,False,Away
+11973093,Quilmes,4936,1,1,False,True,False,Home
+11973093,San Miguel,264945,1,1,False,True,False,Away
+11973087,San Martín,7772,1,2,False,False,True,Home
+11973087,Racing de Córdoba,273657,2,1,True,False,False,Away
+11973092,Talleres R.E.,201162,0,0,False,True,False,Home
+11973092,Ferro Carril Oeste,36841,0,0,False,True,False,Away
+13018858,Dep. Morón,93109,0,0,False,True,False,Home
+13018858,Temperley,112499,0,0,False,True,False,Away

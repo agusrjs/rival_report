@@ -1,0 +1,772 @@
+event_id,round_number,home_id,home_shortName,home_score,away_id,away_shortName,away_score
+11972388,0,265787,Agropecuario,1.0,43741,Patronato,0.0
+11972394,0,255425,Mitre,1.0,213361,San Telmo,0.0
+11972389,0,36834,All Boys,1.0,93513,Tristán Suárez,0.0
+11972383,0,3214,Chacarita Jrs.,2.0,213042,Deportivo Maipú,0.0
+11972390,0,93109,Dep. Morón,3.0,107201,Brown de Adrogué,0.0
+11972382,0,93107,Estudiantes B.A.,1.0,36841,Ferro Carril Oeste,0.0
+11972381,0,201162,Talleres R.E.,0.0,264945,San Miguel,0.0
+11972399,0,4936,Quilmes,2.0,112499,Temperley,0.0
+11972391,0,3200,Nueva Chicago,1.0,4938,Almagro,0.0
+11972395,0,36836,Aldosivi,0.0,34976,Atlético Rafaela,1.0
+11972384,0,23950,SM Tucumán,1.0,5292,Gimnasia J.,0.0
+11972397,0,3207,Colón,2.0,93515,Def. Unidos,1.0
+11972398,0,43740,Almirante Brown,0.0,53799,Atlanta,1.0
+11972385,0,3221,Arsenal,1.0,224646,Güemes,1.0
+11972393,0,222126,Gimnasia y Tiro,2.0,252726,Chaco For Ever,0.0
+11972387,0,53801,Guillermo Brown,1.0,273657,Racing de Córdoba,1.0
+11972386,0,7772,San Martín,1.0,273715,Alvarado,0.0
+11972392,0,188441,Gimnasia Mendoza,0.0,52215,Defensores,1.0
+11972396,0,266694,Estudiantes R.C.,1.0,222120,Deportivo Madryn,0.0
+11972406,1,36841,Ferro Carril Oeste,0.0,3214,Chacarita Jrs.,2.0
+11972416,1,4938,Almagro,2.0,93109,Dep. Morón,1.0
+11972412,1,34976,Atlético Rafaela,,255425,Mitre,
+11972411,1,222120,Deportivo Madryn,0.0,36836,Aldosivi,2.0
+11972408,1,4936,Quilmes,0.0,201162,Talleres R.E.,0.0
+11972407,1,264945,San Miguel,0.0,93107,Estudiantes B.A.,0.0
+11972413,1,213361,San Telmo,1.0,222126,Gimnasia y Tiro,1.0
+11972418,1,43740,Almirante Brown,1.0,93513,Tristán Suárez,2.0
+11972417,1,107201,Brown de Adrogué,2.0,112499,Temperley,2.0
+11972409,1,53799,Atlanta,0.0,3207,Colón,0.0
+11972415,1,52215,Defensores,1.0,3200,Nueva Chicago,0.0
+11972410,1,93515,Def. Unidos,1.0,266694,Estudiantes R.C.,0.0
+11972404,1,5292,Gimnasia J.,1.0,3221,Arsenal,0.0
+11972403,1,224646,Güemes,1.0,7772,San Martín,0.0
+11972405,1,213042,Deportivo Maipú,0.0,23950,SM Tucumán,2.0
+11972414,1,252726,Chaco For Ever,1.0,188441,Gimnasia Mendoza,1.0
+11972401,1,273657,Racing de Córdoba,1.0,265787,Agropecuario,3.0
+11972402,1,273715,Alvarado,2.0,53801,Guillermo Brown,1.0
+11972400,1,43741,Patronato,0.0,36834,All Boys,0.0
+12050497,1,34976,Atlético Rafaela,0.0,255425,Mitre,0.0
+11972420,2,3214,Chacarita Jrs.,1.0,264945,San Miguel,1.0
+11972426,2,36834,All Boys,,273657,Racing de Córdoba,
+11972428,2,112499,Temperley,4.0,4938,Almagro,1.0
+11972427,2,93513,Tristán Suárez,0.0,43741,Patronato,1.0
+11972419,2,93107,Estudiantes B.A.,1.0,4936,Quilmes,2.0
+11972437,2,201162,Talleres R.E.,2.0,107201,Brown de Adrogué,0.0
+11972434,2,36836,Aldosivi,1.0,93515,Def. Unidos,0.0
+11972425,2,265787,Agropecuario,1.0,273715,Alvarado,1.0
+11972429,2,93109,Dep. Morón,0.0,52215,Defensores,4.0
+11972422,2,3221,Arsenal,2.0,213042,Deportivo Maipú,0.0
+11972432,2,222126,Gimnasia y Tiro,1.0,34976,Atlético Rafaela,0.0
+11972424,2,53801,Guillermo Brown,1.0,224646,Güemes,0.0
+11972421,2,23950,SM Tucumán,1.0,36841,Ferro Carril Oeste,2.0
+11972433,2,255425,Mitre,1.0,222120,Deportivo Madryn,0.0
+11972423,2,7772,San Martín,2.0,5292,Gimnasia J.,1.0
+11972435,2,266694,Estudiantes R.C.,1.0,53799,Atlanta,2.0
+11972436,2,3207,Colón,2.0,43740,Almirante Brown,1.0
+12052517,2,36834,All Boys,0.0,273657,Racing de Córdoba,0.0
+11972431,2,188441,Gimnasia Mendoza,1.0,213361,San Telmo,1.0
+11972430,2,3200,Nueva Chicago,2.0,252726,Chaco For Ever,0.0
+11972446,3,201162,Talleres R.E.,0.0,93107,Estudiantes B.A.,1.0
+11972454,3,52215,Defensores,0.0,112499,Temperley,0.0
+11972455,3,4938,Almagro,0.0,107201,Brown de Adrogué,0.0
+11972447,3,43740,Almirante Brown,,266694,Estudiantes R.C.,
+11972448,3,53799,Atlanta,,36836,Aldosivi,
+11972449,3,93515,Def. Unidos,0.0,255425,Mitre,0.0
+11972450,3,222120,Deportivo Madryn,0.0,222126,Gimnasia y Tiro,0.0
+11972442,3,213042,Deportivo Maipú,0.0,7772,San Martín,2.0
+11972443,3,36841,Ferro Carril Oeste,1.0,3221,Arsenal,1.0
+11972441,3,5292,Gimnasia J.,1.0,53801,Guillermo Brown,0.0
+11972440,3,224646,Güemes,1.0,265787,Agropecuario,1.0
+11972452,3,213361,San Telmo,1.0,3200,Nueva Chicago,0.0
+11972438,3,273657,Racing de Córdoba,1.0,93513,Tristán Suárez,1.0
+11972453,3,252726,Chaco For Ever,0.0,93109,Dep. Morón,2.0
+11972439,3,273715,Alvarado,1.0,36834,All Boys,0.0
+11972451,3,34976,Atlético Rafaela,4.0,188441,Gimnasia Mendoza,1.0
+11972456,3,3207,Colón,4.0,43741,Patronato,0.0
+11972445,3,4936,Quilmes,1.0,3214,Chacarita Jrs.,0.0
+11972444,3,264945,San Miguel,1.0,23950,SM Tucumán,0.0
+12074926,3,53799,Atlanta,0.0,36836,Aldosivi,2.0
+12239239,3,43740,Almirante Brown,0.0,266694,Estudiantes R.C.,3.0
+11972469,4,3200,Nueva Chicago,2.0,34976,Atlético Rafaela,0.0
+11972462,4,265787,Agropecuario,1.0,5292,Gimnasia J.,2.0
+11972463,4,36834,All Boys,0.0,224646,Güemes,0.0
+11972475,4,93107,Estudiantes B.A.,1.0,4938,Almagro,1.0
+11972470,4,188441,Gimnasia Mendoza,,222120,Deportivo Madryn,
+11972458,4,23950,SM Tucumán,,4936,Quilmes,
+11972464,4,93513,Tristán Suárez,2.0,273715,Alvarado,2.0
+11972466,4,107201,Brown de Adrogué,0.0,52215,Defensores,3.0
+11972473,4,36836,Aldosivi,0.0,43740,Almirante Brown,0.0
+11972459,4,3221,Arsenal,1.0,264945,San Miguel,0.0
+11972457,4,3214,Chacarita Jrs.,0.0,201162,Talleres R.E.,1.0
+11972468,4,93109,Dep. Morón,1.0,213361,San Telmo,2.0
+11972471,4,222126,Gimnasia y Tiro,1.0,93515,Def. Unidos,0.0
+11972461,4,53801,Guillermo Brown,1.0,213042,Deportivo Maipú,1.0
+11972472,4,255425,Mitre,0.0,53799,Atlanta,0.0
+11972467,4,112499,Temperley,1.0,252726,Chaco For Ever,1.0
+11972460,4,7772,San Martín,3.0,36841,Ferro Carril Oeste,2.0
+11972465,4,43741,Patronato,2.0,273657,Racing de Córdoba,1.0
+11972474,4,266694,Estudiantes R.C.,1.0,3207,Colón,2.0
+12091120,4,23950,SM Tucumán,0.0,4936,Quilmes,0.0
+12091139,4,188441,Gimnasia Mendoza,2.0,222120,Deportivo Madryn,1.0
+11972490,5,34976,Atlético Rafaela,1.0,93109,Dep. Morón,2.0
+11972487,5,53799,Atlanta,,222126,Gimnasia y Tiro,
+11972493,5,52215,Defensores,0.0,4938,Almagro,0.0
+11972489,5,222120,Deportivo Madryn,0.0,3200,Nueva Chicago,0.0
+11972484,5,93107,Estudiantes B.A.,0.0,3214,Chacarita Jrs.,0.0
+11972481,5,264945,San Miguel,1.0,7772,San Martín,1.0
+11972480,5,36841,Ferro Carril Oeste,1.0,53801,Guillermo Brown,2.0
+11972492,5,252726,Chaco For Ever,3.0,107201,Brown de Adrogué,0.0
+11972482,5,4936,Quilmes,0.0,3221,Arsenal,0.0
+11972486,5,43740,Almirante Brown,2.0,255425,Mitre,0.0
+11972488,5,93515,Def. Unidos,3.0,188441,Gimnasia Mendoza,1.0
+11972478,5,5292,Gimnasia J.,0.0,36834,All Boys,1.0
+11972477,5,224646,Güemes,2.0,93513,Tristán Suárez,2.0
+11972479,5,213042,Deportivo Maipú,1.0,265787,Agropecuario,2.0
+11972476,5,273715,Alvarado,2.0,43741,Patronato,0.0
+11972485,5,3207,Colón,1.0,36836,Aldosivi,1.0
+11972483,5,201162,Talleres R.E.,1.0,23950,SM Tucumán,3.0
+11972494,5,266694,Estudiantes R.C.,0.0,273657,Racing de Córdoba,0.0
+11972491,5,213361,San Telmo,3.0,112499,Temperley,0.0
+12112177,5,53799,Atlanta,1.0,222126,Gimnasia y Tiro,1.0
+11972497,6,7772,San Martín,0.0,4936,Quilmes,3.0
+11972513,6,3214,Chacarita Jrs.,1.0,52215,Defensores,4.0
+11972501,6,93513,Tristán Suárez,2.0,5292,Gimnasia J.,1.0
+11972499,6,265787,Agropecuario,,36841,Ferro Carril Oeste,
+11972510,6,222126,Gimnasia y Tiro,,43740,Almirante Brown,
+11972500,6,36834,All Boys,3.0,213042,Deportivo Maipú,2.0
+11972508,6,3200,Nueva Chicago,,93515,Def. Unidos,
+11972512,6,36836,Aldosivi,1.0,266694,Estudiantes R.C.,1.0
+11972506,6,112499,Temperley,1.0,34976,Atlético Rafaela,1.0
+11972505,6,107201,Brown de Adrogué,0.0,213361,San Telmo,0.0
+11972496,6,3221,Arsenal,2.0,201162,Talleres R.E.,1.0
+11972504,6,4938,Almagro,0.0,252726,Chaco For Ever,0.0
+11972507,6,93109,Dep. Morón,0.0,222120,Deportivo Madryn,0.0
+11972498,6,53801,Guillermo Brown,1.0,264945,San Miguel,1.0
+11972503,6,273657,Racing de Córdoba,2.0,273715,Alvarado,0.0
+11972511,6,255425,Mitre,2.0,3207,Colón,2.0
+11972495,6,23950,SM Tucumán,2.0,93107,Estudiantes B.A.,0.0
+11972502,6,43741,Patronato,0.0,224646,Güemes,0.0
+11972509,6,188441,Gimnasia Mendoza,2.0,53799,Atlanta,1.0
+12158627,6,3200,Nueva Chicago,3.0,93515,Def. Unidos,0.0
+12130888,6,265787,Agropecuario,1.0,36841,Ferro Carril Oeste,2.0
+12131267,6,222126,Gimnasia y Tiro,0.0,43740,Almirante Brown,0.0
+11972520,7,201162,Talleres R.E.,0.0,7772,San Martín,0.0
+11972524,7,3207,Colón,,222126,Gimnasia y Tiro,
+11972527,7,93515,Def. Unidos,2.0,93109,Dep. Morón,0.0
+11972521,7,93107,Estudiantes B.A.,1.0,3221,Arsenal,0.0
+11972518,7,264945,San Miguel,1.0,265787,Agropecuario,1.0
+11972532,7,36836,Aldosivi,0.0,273715,Alvarado,0.0
+11972528,7,222120,Deportivo Madryn,0.0,112499,Temperley,1.0
+11972514,7,224646,Güemes,,273657,Racing de Córdoba,
+11972530,7,213361,San Telmo,4.0,4938,Almagro,1.0
+11972529,7,34976,Atlético Rafaela,,107201,Brown de Adrogué,
+11972531,7,252726,Chaco For Ever,,52215,Defensores,
+11972517,7,36841,Ferro Carril Oeste,,36834,All Boys,
+11972516,7,213042,Deportivo Maipú,1.0,93513,Tristán Suárez,0.0
+11972523,7,266694,Estudiantes R.C.,,255425,Mitre,
+11972519,7,4936,Quilmes,1.0,53801,Guillermo Brown,0.0
+11972515,7,5292,Gimnasia J.,1.0,43741,Patronato,1.0
+11972522,7,3214,Chacarita Jrs.,1.0,23950,SM Tucumán,0.0
+11972525,7,43740,Almirante Brown,0.0,188441,Gimnasia Mendoza,0.0
+12157520,7,36841,Ferro Carril Oeste,2.0,36834,All Boys,2.0
+12183621,7,224646,Güemes,0.0,273657,Racing de Córdoba,1.0
+11972526,7,53799,Atlanta,0.0,3200,Nueva Chicago,0.0
+12159140,7,34976,Atlético Rafaela,0.0,107201,Brown de Adrogué,0.0
+12178540,7,252726,Chaco For Ever,3.0,52215,Defensores,0.0
+12158125,7,266694,Estudiantes R.C.,0.0,255425,Mitre,0.0
+12177656,7,3207,Colón,1.0,222126,Gimnasia y Tiro,0.0
+11972535,8,53801,Guillermo Brown,1.0,201162,Talleres R.E.,1.0
+11972536,8,265787,Agropecuario,1.0,4936,Quilmes,1.0
+11972533,8,3221,Arsenal,3.0,3214,Chacarita Jrs.,1.0
+11972548,8,188441,Gimnasia Mendoza,2.0,3207,Colón,0.0
+11972543,8,4938,Almagro,1.0,34976,Atlético Rafaela,0.0
+11972545,8,112499,Temperley,0.0,93515,Def. Unidos,0.0
+11972538,8,93513,Tristán Suárez,1.0,36841,Ferro Carril Oeste,1.0
+11972551,8,23950,SM Tucumán,,252726,Chaco For Ever,
+11972547,8,3200,Nueva Chicago,1.0,43740,Almirante Brown,0.0
+11972541,8,273715,Alvarado,0.0,224646,Güemes,0.0
+11972549,8,222126,Gimnasia y Tiro,1.0,266694,Estudiantes R.C.,1.0
+11972540,8,273657,Racing de Córdoba,1.0,5292,Gimnasia J.,0.0
+11972539,8,43741,Patronato,1.0,213042,Deportivo Maipú,2.0
+11972537,8,36834,All Boys,0.0,264945,San Miguel,0.0
+11972544,8,107201,Brown de Adrogué,0.0,222120,Deportivo Madryn,1.0
+11972534,8,7772,San Martín,0.0,93107,Estudiantes B.A.,0.0
+11972546,8,93109,Dep. Morón,3.0,53799,Atlanta,0.0
+11972542,8,52215,Defensores,0.0,213361,San Telmo,1.0
+11972550,8,255425,Mitre,0.0,36836,Aldosivi,1.0
+12180474,8,23950,SM Tucumán,1.0,252726,Chaco For Ever,0.0
+11972563,9,3207,Colón,2.0,3200,Nueva Chicago,1.0
+11972559,9,3214,Chacarita Jrs.,1.0,7772,San Martín,1.0
+11972564,9,43740,Almirante Brown,1.0,93109,Dep. Morón,1.0
+11972566,9,93515,Def. Unidos,1.0,107201,Brown de Adrogué,1.0
+11972569,9,213361,San Telmo,2.0,252726,Chaco For Ever,0.0
+11972565,9,53799,Atlanta,,112499,Temperley,
+11972554,9,36841,Ferro Carril Oeste,1.0,43741,Patronato,1.0
+11972560,9,23950,SM Tucumán,3.0,3221,Arsenal,0.0
+11972555,9,264945,San Miguel,3.0,93513,Tristán Suárez,2.0
+11972558,9,93107,Estudiantes B.A.,2.0,53801,Guillermo Brown,1.0
+11972557,9,201162,Talleres R.E.,1.0,265787,Agropecuario,5.0
+11972567,9,222120,Deportivo Madryn,2.0,4938,Almagro,0.0
+11972552,9,5292,Gimnasia J.,1.0,273715,Alvarado,0.0
+11972556,9,4936,Quilmes,1.0,36834,All Boys,0.0
+11972561,9,36836,Aldosivi,2.0,222126,Gimnasia y Tiro,2.0
+11972553,9,213042,Deportivo Maipú,1.0,273657,Racing de Córdoba,0.0
+11972570,9,255425,Mitre,2.0,224646,Güemes,0.0
+11972562,9,266694,Estudiantes R.C.,1.0,188441,Gimnasia Mendoza,1.0
+11972568,9,34976,Atlético Rafaela,0.0,52215,Defensores,1.0
+12213142,9,53799,Atlanta,0.0,112499,Temperley,2.0
+11972586,10,3200,Nueva Chicago,0.0,266694,Estudiantes R.C.,1.0
+11972583,10,107201,Brown de Adrogué,2.0,53799,Atlanta,3.0
+11972584,10,112499,Temperley,1.0,43740,Almirante Brown,1.0
+11972582,10,4938,Almagro,1.0,93515,Def. Unidos,1.0
+11972587,10,188441,Gimnasia Mendoza,2.0,36836,Aldosivi,3.0
+11972580,10,252726,Chaco For Ever,2.0,34976,Atlético Rafaela,0.0
+11972573,10,265787,Agropecuario,0.0,93107,Estudiantes B.A.,0.0
+11972578,10,273715,Alvarado,0.0,213042,Deportivo Maipú,1.0
+11972574,10,36834,All Boys,1.0,201162,Talleres R.E.,0.0
+11972585,10,93109,Dep. Morón,0.0,3207,Colón,2.0
+11972575,10,93513,Tristán Suárez,1.0,4936,Quilmes,3.0
+11972589,10,3221,Arsenal,0.0,213361,San Telmo,0.0
+11972572,10,53801,Guillermo Brown,0.0,3214,Chacarita Jrs.,3.0
+11972588,10,222126,Gimnasia y Tiro,1.0,255425,Mitre,0.0
+11972577,10,273657,Racing de Córdoba,1.0,36841,Ferro Carril Oeste,1.0
+11972579,10,224646,Güemes,1.0,5292,Gimnasia J.,1.0
+11972571,10,7772,San Martín,0.0,23950,SM Tucumán,0.0
+11972581,10,52215,Defensores,2.0,222120,Deportivo Madryn,3.0
+11972576,10,43741,Patronato,0.0,264945,San Miguel,1.0
+11972597,11,23950,SM Tucumán,0.0,53801,Guillermo Brown,0.0
+11972604,11,53799,Atlanta,3.0,4938,Almagro,0.0
+11972595,11,93107,Estudiantes B.A.,1.0,36834,All Boys,1.0
+11972605,11,93515,Def. Unidos,3.0,52215,Defensores,2.0
+11972591,11,36841,Ferro Carril Oeste,,273715,Alvarado,
+11972593,11,4936,Quilmes,,43741,Patronato,
+11972602,11,3207,Colón,0.0,112499,Temperley,0.0
+11972594,11,201162,Talleres R.E.,1.0,93513,Tristán Suárez,0.0
+11972599,11,255425,Mitre,0.0,188441,Gimnasia Mendoza,1.0
+11972598,11,3221,Arsenal,0.0,7772,San Martín,0.0
+11972606,11,222120,Deportivo Madryn,1.0,252726,Chaco For Ever,0.0
+11972592,11,264945,San Miguel,2.0,273657,Racing de Córdoba,0.0
+11972596,11,3214,Chacarita Jrs.,2.0,265787,Agropecuario,1.0
+11972600,11,36836,Aldosivi,0.0,3200,Nueva Chicago,0.0
+11972608,11,222126,Gimnasia y Tiro,0.0,5292,Gimnasia J.,0.0
+11972607,11,34976,Atlético Rafaela,1.0,213361,San Telmo,2.0
+11972601,11,266694,Estudiantes R.C.,2.0,93109,Dep. Morón,0.0
+11972603,11,43740,Almirante Brown,1.0,107201,Brown de Adrogué,2.0
+11972590,11,213042,Deportivo Maipú,1.0,224646,Güemes,1.0
+12262054,11,4936,Quilmes,2.0,43741,Patronato,2.0
+12245548,11,36841,Ferro Carril Oeste,3.0,273715,Alvarado,0.0
+11972612,12,93513,Tristán Suárez,0.0,93107,Estudiantes B.A.,1.0
+11972621,12,4938,Almagro,1.0,43740,Almirante Brown,0.0
+11972613,12,43741,Patronato,1.0,201162,Talleres R.E.,1.0
+11972625,12,3200,Nueva Chicago,1.0,255425,Mitre,0.0
+11972610,12,265787,Agropecuario,0.0,23950,SM Tucumán,1.0
+11972620,12,52215,Defensores,2.0,53799,Atlanta,0.0
+11972622,12,107201,Brown de Adrogué,0.0,3207,Colón,4.0
+11972609,12,53801,Guillermo Brown,2.0,3221,Arsenal,0.0
+11972624,12,93109,Dep. Morón,2.0,36836,Aldosivi,1.0
+11972615,12,273715,Alvarado,1.0,264945,San Miguel,0.0
+11972618,12,213361,San Telmo,2.0,222120,Deportivo Madryn,1.0
+11972623,12,112499,Temperley,0.0,266694,Estudiantes R.C.,1.0
+11972617,12,5292,Gimnasia J.,2.0,213042,Deportivo Maipú,0.0
+11972627,12,7772,San Martín,2.0,34976,Atlético Rafaela,1.0
+11972619,12,252726,Chaco For Ever,3.0,93515,Def. Unidos,0.0
+11972626,12,188441,Gimnasia Mendoza,0.0,222126,Gimnasia y Tiro,0.0
+11972616,12,224646,Güemes,1.0,36841,Ferro Carril Oeste,3.0
+11972611,12,36834,All Boys,0.0,3214,Chacarita Jrs.,0.0
+11972614,12,273657,Racing de Córdoba,1.0,4936,Quilmes,0.0
+11972641,13,3207,Colón,3.0,4938,Almagro,0.0
+11972640,13,266694,Estudiantes R.C.,2.0,107201,Brown de Adrogué,1.0
+11972644,13,93515,Def. Unidos,2.0,213361,San Telmo,2.0
+11972643,13,53799,Atlanta,1.0,252726,Chaco For Ever,0.0
+11972642,13,43740,Almirante Brown,0.0,52215,Defensores,2.0
+11972635,13,3221,Arsenal,1.0,265787,Agropecuario,0.0
+11972645,13,222120,Deportivo Madryn,1.0,34976,Atlético Rafaela,1.0
+11972632,13,93107,Estudiantes B.A.,0.0,43741,Patronato,0.0
+11972646,13,188441,Gimnasia Mendoza,0.0,213042,Deportivo Maipú,1.0
+11972629,13,264945,San Miguel,1.0,224646,Güemes,0.0
+11972638,13,255425,Mitre,0.0,93109,Dep. Morón,0.0
+11972636,13,7772,San Martín,1.0,53801,Guillermo Brown,0.0
+11972631,13,201162,Talleres R.E.,,273657,Racing de Córdoba,
+11972639,13,36836,Aldosivi,1.0,112499,Temperley,1.0
+11972634,13,23950,SM Tucumán,0.0,36834,All Boys,0.0
+11972633,13,3214,Chacarita Jrs.,1.0,93513,Tristán Suárez,2.0
+11972637,13,222126,Gimnasia y Tiro,2.0,3200,Nueva Chicago,0.0
+11972628,13,36841,Ferro Carril Oeste,2.0,5292,Gimnasia J.,0.0
+11972630,13,4936,Quilmes,1.0,273715,Alvarado,1.0
+12283032,13,201162,Talleres R.E.,0.0,273657,Racing de Córdoba,0.0
+11972662,14,112499,Temperley,2.0,255425,Mitre,0.0
+11972663,14,93109,Dep. Morón,0.0,222126,Gimnasia y Tiro,0.0
+11972649,14,93513,Tristán Suárez,0.0,23950,SM Tucumán,0.0
+11972658,14,252726,Chaco For Ever,0.0,43740,Almirante Brown,0.0
+11972648,14,36834,All Boys,,3221,Arsenal,
+11972659,14,52215,Defensores,,3207,Colón,
+11972647,14,265787,Agropecuario,0.0,7772,San Martín,1.0
+11972656,14,34976,Atlético Rafaela,1.0,93515,Def. Unidos,0.0
+11972661,14,107201,Brown de Adrogué,0.0,36836,Aldosivi,1.0
+11972657,14,213361,San Telmo,0.0,53799,Atlanta,1.0
+11972665,14,53801,Guillermo Brown,0.0,222120,Deportivo Madryn,1.0
+11972653,14,224646,Güemes,1.0,4936,Quilmes,0.0
+11972652,14,273715,Alvarado,2.0,201162,Talleres R.E.,0.0
+11972655,14,213042,Deportivo Maipú,2.0,36841,Ferro Carril Oeste,1.0
+11972654,14,5292,Gimnasia J.,3.0,264945,San Miguel,0.0
+11972650,14,43741,Patronato,2.0,3214,Chacarita Jrs.,0.0
+11972664,14,3200,Nueva Chicago,2.0,188441,Gimnasia Mendoza,1.0
+11972651,14,273657,Racing de Córdoba,0.0,93107,Estudiantes B.A.,1.0
+11972660,14,4938,Almagro,0.0,266694,Estudiantes R.C.,1.0
+12302361,14,273657,Racing de Córdoba,,93107,Estudiantes B.A.,
+12302435,14,36834,All Boys,1.0,3221,Arsenal,0.0
+12302371,14,52215,Defensores,1.0,3207,Colón,0.0
+11972676,15,222126,Gimnasia y Tiro,0.0,112499,Temperley,2.0
+11972666,15,264945,San Miguel,2.0,213042,Deportivo Maipú,1.0
+11972668,15,201162,Talleres R.E.,0.0,224646,Güemes,0.0
+11972677,15,255425,Mitre,,107201,Brown de Adrogué,
+11972671,15,23950,SM Tucumán,,43741,Patronato,
+11972667,15,4936,Quilmes,2.0,5292,Gimnasia J.,1.0
+11972669,15,93107,Estudiantes B.A.,4.0,273715,Alvarado,0.0
+11972684,15,3200,Nueva Chicago,,36841,Ferro Carril Oeste,
+11972682,15,53799,Atlanta,2.0,34976,Atlético Rafaela,0.0
+11972672,15,3221,Arsenal,0.0,93513,Tristán Suárez,2.0
+11972674,15,53801,Guillermo Brown,0.0,265787,Agropecuario,2.0
+11972678,15,36836,Aldosivi,1.0,4938,Almagro,0.0
+11972670,15,3214,Chacarita Jrs.,2.0,273657,Racing de Córdoba,2.0
+11972683,15,93515,Def. Unidos,0.0,222120,Deportivo Madryn,0.0
+11972675,15,188441,Gimnasia Mendoza,2.0,93109,Dep. Morón,1.0
+11972680,15,3207,Colón,1.0,252726,Chaco For Ever,0.0
+11972673,15,7772,San Martín,3.0,36834,All Boys,0.0
+11972679,15,266694,Estudiantes R.C.,1.0,52215,Defensores,1.0
+11972681,15,43740,Almirante Brown,0.0,213361,San Telmo,0.0
+12325027,15,23950,SM Tucumán,2.0,43741,Patronato,0.0
+12335281,15,255425,Mitre,1.0,107201,Brown de Adrogué,0.0
+12339889,15,3200,Nueva Chicago,3.0,36841,Ferro Carril Oeste,1.0
+11972697,16,213361,San Telmo,2.0,3207,Colón,0.0
+11972686,16,93513,Tristán Suárez,0.0,7772,San Martín,1.0
+11972704,16,265787,Agropecuario,0.0,93515,Def. Unidos,0.0
+11972699,16,52215,Defensores,,36836,Aldosivi,
+11972702,16,112499,Temperley,,188441,Gimnasia Mendoza,
+11972696,16,34976,Atlético Rafaela,1.0,43740,Almirante Brown,2.0
+11972693,16,36841,Ferro Carril Oeste,1.0,264945,San Miguel,0.0
+11972701,16,107201,Brown de Adrogué,0.0,222126,Gimnasia y Tiro,0.0
+11972694,16,222120,Deportivo Madryn,3.0,53799,Atlanta,0.0
+11972690,16,224646,Güemes,1.0,93107,Estudiantes B.A.,0.0
+11972703,16,93109,Dep. Morón,1.0,3200,Nueva Chicago,0.0
+11972685,16,36834,All Boys,1.0,53801,Guillermo Brown,1.0
+11972700,16,4938,Almagro,0.0,255425,Mitre,0.0
+11972689,16,273715,Alvarado,2.0,3214,Chacarita Jrs.,1.0
+11972692,16,213042,Deportivo Maipú,1.0,4936,Quilmes,1.0
+11972698,16,252726,Chaco For Ever,3.0,266694,Estudiantes R.C.,0.0
+11972691,16,5292,Gimnasia J.,2.0,201162,Talleres R.E.,1.0
+11972687,16,43741,Patronato,0.0,3221,Arsenal,0.0
+11972688,16,273657,Racing de Córdoba,0.0,23950,SM Tucumán,1.0
+12338766,16,52215,Defensores,0.0,36836,Aldosivi,2.0
+12338767,16,112499,Temperley,1.0,188441,Gimnasia Mendoza,3.0
+11972723,17,93109,Dep. Morón,,264945,San Miguel,
+11972710,17,3221,Arsenal,0.0,273657,Racing de Córdoba,2.0
+11972720,17,3207,Colón,1.0,34976,Atlético Rafaela,0.0
+11972714,17,3200,Nueva Chicago,1.0,112499,Temperley,0.0
+11972708,17,3214,Chacarita Jrs.,2.0,224646,Güemes,0.0
+11972706,17,201162,Talleres R.E.,2.0,213042,Deportivo Maipú,3.0
+11972721,17,43740,Almirante Brown,0.0,222120,Deportivo Madryn,1.0
+11972707,17,93107,Estudiantes B.A.,1.0,5292,Gimnasia J.,0.0
+11972712,17,53801,Guillermo Brown,2.0,93513,Tristán Suárez,1.0
+12364770,17,93109,Dep. Morón,0.0,264945,San Miguel,1.0
+11972715,17,188441,Gimnasia Mendoza,3.0,107201,Brown de Adrogué,1.0
+11972716,17,222126,Gimnasia y Tiro,1.0,4938,Almagro,1.0
+11972718,17,36836,Aldosivi,1.0,252726,Chaco For Ever,1.0
+11972717,17,255425,Mitre,2.0,52215,Defensores,0.0
+11972711,17,7772,San Martín,1.0,43741,Patronato,0.0
+11972719,17,266694,Estudiantes R.C.,0.0,213361,San Telmo,1.0
+11972709,17,23950,SM Tucumán,1.0,273715,Alvarado,0.0
+11972705,17,4936,Quilmes,1.0,36841,Ferro Carril Oeste,4.0
+12377426,17,53799,Atlanta,1.0,93515,Def. Unidos,1.0
+11972713,17,265787,Agropecuario,2.0,36834,All Boys,1.0
+11972739,18,4938,Almagro,2.0,188441,Gimnasia Mendoza,2.0
+11972738,18,52215,Defensores,1.0,222126,Gimnasia y Tiro,0.0
+11972724,18,93513,Tristán Suárez,2.0,265787,Agropecuario,1.0
+11972732,18,264945,San Miguel,1.0,4936,Quilmes,0.0
+11972742,18,36834,All Boys,1.0,53799,Atlanta,0.0
+11972741,18,112499,Temperley,3.0,93109,Dep. Morón,0.0
+11972740,18,107201,Brown de Adrogué,0.0,3200,Nueva Chicago,0.0
+11972727,18,273715,Alvarado,2.0,3221,Arsenal,1.0
+11972733,18,93515,Def. Unidos,0.0,43740,Almirante Brown,1.0
+11972730,18,213042,Deportivo Maipú,1.0,93107,Estudiantes B.A.,0.0
+11972728,18,224646,Güemes,0.0,23950,SM Tucumán,0.0
+11972726,18,273657,Racing de Córdoba,0.0,7772,San Martín,0.0
+11972736,18,213361,San Telmo,,36836,Aldosivi,
+11972734,18,222120,Deportivo Madryn,0.0,3207,Colón,0.0
+11972737,18,252726,Chaco For Ever,1.0,255425,Mitre,1.0
+11972731,18,36841,Ferro Carril Oeste,0.0,201162,Talleres R.E.,1.0
+11972725,18,43741,Patronato,0.0,53801,Guillermo Brown,0.0
+11972735,18,34976,Atlético Rafaela,0.0,266694,Estudiantes R.C.,1.0
+11972729,18,5292,Gimnasia J.,0.0,3214,Chacarita Jrs.,1.0
+12621613,18,213361,San Telmo,1.0,36836,Aldosivi,2.0
+11972753,19,4938,Almagro,1.0,3200,Nueva Chicago,2.0
+11972752,19,107201,Brown de Adrogué,0.0,93109,Dep. Morón,0.0
+11972754,19,52215,Defensores,0.0,188441,Gimnasia Mendoza,1.0
+11972758,19,222120,Deportivo Madryn,1.0,266694,Estudiantes R.C.,0.0
+11972743,19,264945,San Miguel,0.0,201162,Talleres R.E.,0.0
+11972751,19,93513,Tristán Suárez,1.0,36834,All Boys,0.0
+11972761,19,112499,Temperley,1.0,4936,Quilmes,0.0
+11972748,19,273715,Alvarado,0.0,7772,San Martín,0.0
+11972745,19,213042,Deportivo Maipú,0.0,3214,Chacarita Jrs.,2.0
+11972749,19,273657,Racing de Córdoba,1.0,53801,Guillermo Brown,2.0
+11972756,19,213361,San Telmo,0.0,255425,Mitre,0.0
+11972759,19,93515,Def. Unidos,2.0,3207,Colón,1.0
+11972755,19,252726,Chaco For Ever,0.0,222126,Gimnasia y Tiro,1.0
+11972746,19,5292,Gimnasia J.,2.0,23950,SM Tucumán,0.0
+11972747,19,224646,Güemes,0.0,3221,Arsenal,1.0
+11972750,19,43741,Patronato,4.0,265787,Agropecuario,0.0
+11972744,19,36841,Ferro Carril Oeste,2.0,93107,Estudiantes B.A.,2.0
+11972757,19,34976,Atlético Rafaela,0.0,36836,Aldosivi,2.0
+11972760,19,53799,Atlanta,1.0,43740,Almirante Brown,0.0
+11972763,20,265787,Agropecuario,2.0,273657,Racing de Córdoba,4.0
+11972762,20,36834,All Boys,1.0,43741,Patronato,0.0
+11972776,20,188441,Gimnasia Mendoza,1.0,252726,Chaco For Ever,0.0
+11972770,20,201162,Talleres R.E.,,4936,Quilmes,
+11972779,20,112499,Temperley,1.0,107201,Brown de Adrogué,0.0
+11972769,20,93107,Estudiantes B.A.,1.0,264945,San Miguel,1.0
+11972768,20,3214,Chacarita Jrs.,1.0,36841,Ferro Carril Oeste,1.0
+11972766,20,3221,Arsenal,0.0,5292,Gimnasia J.,1.0
+11972773,20,36836,Aldosivi,1.0,222120,Deportivo Madryn,0.0
+11972778,20,93109,Dep. Morón,0.0,4938,Almagro,0.0
+11972764,20,53801,Guillermo Brown,0.0,273715,Alvarado,0.0
+11972780,20,93513,Tristán Suárez,2.0,43740,Almirante Brown,2.0
+11972777,20,3200,Nueva Chicago,0.0,52215,Defensores,0.0
+11972775,20,222126,Gimnasia y Tiro,0.0,213361,San Telmo,3.0
+11972772,20,266694,Estudiantes R.C.,2.0,93515,Def. Unidos,1.0
+11972774,20,255425,Mitre,2.0,34976,Atlético Rafaela,0.0
+11972765,20,7772,San Martín,1.0,224646,Güemes,0.0
+11972767,20,23950,SM Tucumán,2.0,213042,Deportivo Maipú,1.0
+11972771,20,3207,Colón,1.0,53799,Atlanta,1.0
+12446640,20,201162,Talleres R.E.,1.0,4936,Quilmes,0.0
+11972794,21,34976,Atlético Rafaela,0.0,222126,Gimnasia y Tiro,0.0
+11972797,21,53799,Atlanta,1.0,266694,Estudiantes R.C.,1.0
+11972799,21,107201,Brown de Adrogué,0.0,201162,Talleres R.E.,0.0
+11972795,21,222120,Deportivo Madryn,1.0,255425,Mitre,0.0
+11972790,21,4938,Almagro,0.0,112499,Temperley,0.0
+11972793,21,213361,San Telmo,0.0,188441,Gimnasia Mendoza,0.0
+11972787,21,273715,Alvarado,0.0,265787,Agropecuario,3.0
+11972791,21,52215,Defensores,0.0,93109,Dep. Morón,0.0
+11972796,21,93515,Def. Unidos,1.0,36836,Aldosivi,0.0
+11972786,21,224646,Güemes,1.0,53801,Guillermo Brown,1.0
+11972788,21,273657,Racing de Córdoba,1.0,36834,All Boys,0.0
+11972782,21,264945,San Miguel,2.0,3214,Chacarita Jrs.,1.0
+11972784,21,213042,Deportivo Maipú,1.0,3221,Arsenal,0.0
+11972785,21,5292,Gimnasia J.,1.0,7772,San Martín,0.0
+11972789,21,43741,Patronato,3.0,93513,Tristán Suárez,0.0
+11972792,21,252726,Chaco For Ever,0.0,3200,Nueva Chicago,1.0
+11972798,21,43740,Almirante Brown,0.0,3207,Colón,0.0
+11972781,21,4936,Quilmes,1.0,93107,Estudiantes B.A.,0.0
+11972783,21,36841,Ferro Carril Oeste,3.0,23950,SM Tucumán,1.0
+11972815,22,93109,Dep. Morón,1.0,252726,Chaco For Ever,0.0
+11972807,22,3214,Chacarita Jrs.,0.0,4936,Quilmes,4.0
+11972817,22,107201,Brown de Adrogué,0.0,4938,Almagro,2.0
+11972808,22,93107,Estudiantes B.A.,2.0,201162,Talleres R.E.,1.0
+11972813,22,188441,Gimnasia Mendoza,2.0,34976,Atlético Rafaela,1.0
+11972801,22,36834,All Boys,1.0,273715,Alvarado,0.0
+11972816,22,112499,Temperley,0.0,52215,Defensores,0.0
+11972800,22,93513,Tristán Suárez,1.0,273657,Racing de Córdoba,0.0
+11972805,22,3221,Arsenal,0.0,36841,Ferro Carril Oeste,0.0
+11972814,22,3200,Nueva Chicago,0.0,213361,San Telmo,3.0
+11972810,22,36836,Aldosivi,2.0,53799,Atlanta,1.0
+11972803,22,53801,Guillermo Brown,0.0,5292,Gimnasia J.,0.0
+11972812,22,222126,Gimnasia y Tiro,0.0,222120,Deportivo Madryn,0.0
+11972802,22,265787,Agropecuario,3.0,224646,Güemes,1.0
+11972809,22,266694,Estudiantes R.C.,0.0,43740,Almirante Brown,1.0
+11972811,22,255425,Mitre,1.0,93515,Def. Unidos,0.0
+11972818,22,43741,Patronato,1.0,3207,Colón,0.0
+11972806,22,23950,SM Tucumán,1.0,264945,San Miguel,0.0
+11972804,22,7772,San Martín,1.0,213042,Deportivo Maipú,0.0
+11972831,23,34976,Atlético Rafaela,1.0,3200,Nueva Chicago,5.0
+11972829,23,252726,Chaco For Ever,0.0,112499,Temperley,1.0
+11972837,23,4938,Almagro,1.0,93107,Estudiantes B.A.,0.0
+11972835,23,43740,Almirante Brown,1.0,36836,Aldosivi,0.0
+11972828,23,52215,Defensores,3.0,107201,Brown de Adrogué,0.0
+11972825,23,224646,Güemes,2.0,36834,All Boys,1.0
+11972821,23,264945,San Miguel,3.0,3221,Arsenal,0.0
+11972826,23,273715,Alvarado,1.0,93513,Tristán Suárez,2.0
+11972834,23,53799,Atlanta,,255425,Mitre,
+11972820,23,4936,Quilmes,,23950,SM Tucumán,
+11972836,23,3207,Colón,3.0,266694,Estudiantes R.C.,0.0
+11972822,23,36841,Ferro Carril Oeste,0.0,7772,San Martín,0.0
+11972830,23,213361,San Telmo,1.0,93109,Dep. Morón,1.0
+11972833,23,93515,Def. Unidos,0.0,222126,Gimnasia y Tiro,1.0
+11972832,23,222120,Deportivo Madryn,0.0,188441,Gimnasia Mendoza,2.0
+11972823,23,213042,Deportivo Maipú,1.0,53801,Guillermo Brown,0.0
+11972824,23,5292,Gimnasia J.,1.0,265787,Agropecuario,1.0
+11972827,23,273657,Racing de Córdoba,1.0,43741,Patronato,0.0
+11972819,23,201162,Talleres R.E.,2.0,3214,Chacarita Jrs.,1.0
+12524363,23,53799,Atlanta,0.0,255425,Mitre,0.0
+12543203,23,4936,Quilmes,1.0,23950,SM Tucumán,2.0
+11972855,24,4938,Almagro,1.0,52215,Defensores,0.0
+11972853,24,112499,Temperley,0.0,213361,San Telmo,0.0
+11972847,24,36836,Aldosivi,1.0,3207,Colón,0.0
+11972844,24,3221,Arsenal,0.0,4936,Quilmes,0.0
+11972854,24,107201,Brown de Adrogué,0.0,252726,Chaco For Ever,0.0
+11972846,24,3214,Chacarita Jrs.,1.0,93107,Estudiantes B.A.,1.0
+11972851,24,3200,Nueva Chicago,1.0,222120,Deportivo Madryn,1.0
+11972839,24,93513,Tristán Suárez,1.0,224646,Güemes,1.0
+11972848,24,255425,Mitre,2.0,43740,Almirante Brown,1.0
+11972852,24,93109,Dep. Morón,1.0,34976,Atlético Rafaela,1.0
+11972840,24,36834,All Boys,0.0,5292,Gimnasia J.,1.0
+11972850,24,188441,Gimnasia Mendoza,2.0,93515,Def. Unidos,0.0
+11972842,24,53801,Guillermo Brown,3.0,36841,Ferro Carril Oeste,1.0
+11972849,24,222126,Gimnasia y Tiro,1.0,53799,Atlanta,0.0
+11972841,24,265787,Agropecuario,0.0,213042,Deportivo Maipú,0.0
+11972838,24,43741,Patronato,1.0,273715,Alvarado,3.0
+11972843,24,7772,San Martín,2.0,264945,San Miguel,0.0
+11972856,24,273657,Racing de Córdoba,0.0,266694,Estudiantes R.C.,1.0
+11972845,24,23950,SM Tucumán,1.0,201162,Talleres R.E.,0.0
+11972857,25,93107,Estudiantes B.A.,1.0,23950,SM Tucumán,3.0
+11972864,25,224646,Güemes,2.0,43741,Patronato,1.0
+11972860,25,264945,San Miguel,1.0,53801,Guillermo Brown,0.0
+11972870,25,93515,Def. Unidos,1.0,3200,Nueva Chicago,2.0
+11972869,25,222120,Deportivo Madryn,0.0,93109,Dep. Morón,0.0
+11972868,25,34976,Atlético Rafaela,,112499,Temperley,
+11972866,25,252726,Chaco For Ever,1.0,4938,Almagro,1.0
+11972873,25,3207,Colón,,255425,Mitre,
+11972861,25,36841,Ferro Carril Oeste,,265787,Agropecuario,
+11972859,25,4936,Quilmes,,7772,San Martín,
+11972872,25,43740,Almirante Brown,0.0,222126,Gimnasia y Tiro,0.0
+11972858,25,201162,Talleres R.E.,0.0,3221,Arsenal,0.0
+11972867,25,213361,San Telmo,3.0,107201,Brown de Adrogué,0.0
+11972862,25,213042,Deportivo Maipú,1.0,36834,All Boys,2.0
+11972865,25,273715,Alvarado,3.0,273657,Racing de Córdoba,0.0
+11972863,25,5292,Gimnasia J.,1.0,93513,Tristán Suárez,0.0
+11972875,25,52215,Defensores,2.0,3214,Chacarita Jrs.,2.0
+11972871,25,53799,Atlanta,1.0,188441,Gimnasia Mendoza,2.0
+12607219,25,36841,Ferro Carril Oeste,3.0,265787,Agropecuario,0.0
+11972874,25,266694,Estudiantes R.C.,2.0,36836,Aldosivi,2.0
+12601482,25,34976,Atlético Rafaela,1.0,112499,Temperley,0.0
+12606627,25,4936,Quilmes,0.0,7772,San Martín,1.0
+12617084,25,3207,Colón,1.0,255425,Mitre,2.0
+11972883,26,3221,Arsenal,1.0,93107,Estudiantes B.A.,1.0
+11972889,26,93109,Dep. Morón,1.0,93515,Def. Unidos,1.0
+11972882,26,7772,San Martín,3.0,201162,Talleres R.E.,1.0
+11972878,26,93513,Tristán Suárez,1.0,213042,Deportivo Maipú,2.0
+11972892,26,4938,Almagro,1.0,213361,San Telmo,1.0
+11972894,26,273715,Alvarado,1.0,36836,Aldosivi,0.0
+11972891,26,107201,Brown de Adrogué,1.0,34976,Atlético Rafaela,0.0
+11972893,26,52215,Defensores,0.0,252726,Chaco For Ever,0.0
+11972887,26,188441,Gimnasia Mendoza,1.0,43740,Almirante Brown,0.0
+11972881,26,53801,Guillermo Brown,1.0,4936,Quilmes,2.0
+11972888,26,3200,Nueva Chicago,0.0,53799,Atlanta,1.0
+11972880,26,265787,Agropecuario,2.0,264945,San Miguel,1.0
+11972885,26,255425,Mitre,0.0,266694,Estudiantes R.C.,0.0
+11972877,26,43741,Patronato,1.0,5292,Gimnasia J.,0.0
+11972876,26,273657,Racing de Córdoba,2.0,224646,Güemes,0.0
+11972884,26,23950,SM Tucumán,1.0,3214,Chacarita Jrs.,0.0
+11972879,26,36834,All Boys,3.0,36841,Ferro Carril Oeste,0.0
+11972886,26,222126,Gimnasia y Tiro,1.0,3207,Colón,0.0
+11972890,26,112499,Temperley,0.0,222120,Deportivo Madryn,1.0
+11972906,27,222120,Deportivo Madryn,2.0,107201,Brown de Adrogué,1.0
+11972896,27,93107,Estudiantes B.A.,0.0,7772,San Martín,0.0
+11972900,27,36841,Ferro Carril Oeste,2.0,93513,Tristán Suárez,2.0
+11972903,27,224646,Güemes,2.0,273715,Alvarado,1.0
+11972899,27,264945,San Miguel,2.0,36834,All Boys,1.0
+11972908,27,53799,Atlanta,,93109,Dep. Morón,
+11972898,27,4936,Quilmes,,265787,Agropecuario,
+11972913,27,252726,Chaco For Ever,0.0,23950,SM Tucumán,1.0
+11972912,27,36836,Aldosivi,0.0,255425,Mitre,0.0
+11972895,27,3214,Chacarita Jrs.,0.0,3221,Arsenal,0.0
+11972907,27,93515,Def. Unidos,3.0,112499,Temperley,1.0
+11972904,27,213361,San Telmo,1.0,52215,Defensores,2.0
+11972901,27,213042,Deportivo Maipú,3.0,43741,Patronato,1.0
+11972902,27,5292,Gimnasia J.,0.0,273657,Racing de Córdoba,1.0
+11972911,27,266694,Estudiantes R.C.,0.0,222126,Gimnasia y Tiro,1.0
+11972909,27,43740,Almirante Brown,0.0,3200,Nueva Chicago,1.0
+11972905,27,34976,Atlético Rafaela,2.0,4938,Almagro,3.0
+11972910,27,3207,Colón,1.0,188441,Gimnasia Mendoza,0.0
+11972897,27,201162,Talleres R.E.,1.0,53801,Guillermo Brown,1.0
+12682790,27,4936,Quilmes,1.0,265787,Agropecuario,0.0
+12682789,27,53799,Atlanta,1.0,93109,Dep. Morón,0.0
+11972931,28,252726,Chaco For Ever,,213361,San Telmo,
+11972922,28,3221,Arsenal,1.0,23950,SM Tucumán,1.0
+11972928,28,107201,Brown de Adrogué,2.0,93515,Def. Unidos,1.0
+11972932,28,224646,Güemes,0.0,255425,Mitre,0.0
+11972918,28,36834,All Boys,,4936,Quilmes,
+11972917,28,93513,Tristán Suárez,1.0,264945,San Miguel,1.0
+11972930,28,52215,Defensores,0.0,34976,Atlético Rafaela,0.0
+11972926,28,93109,Dep. Morón,0.0,43740,Almirante Brown,1.0
+11972927,28,112499,Temperley,1.0,53799,Atlanta,1.0
+11972929,28,4938,Almagro,0.0,222120,Deportivo Madryn,1.0
+11972914,28,273715,Alvarado,1.0,5292,Gimnasia J.,0.0
+11972920,28,53801,Guillermo Brown,3.0,93107,Estudiantes B.A.,1.0
+11972924,28,188441,Gimnasia Mendoza,0.0,266694,Estudiantes R.C.,0.0
+11972923,28,222126,Gimnasia y Tiro,1.0,36836,Aldosivi,0.0
+11972919,28,265787,Agropecuario,2.0,201162,Talleres R.E.,0.0
+12720698,28,252726,Chaco For Ever,1.0,213361,San Telmo,0.0
+11972916,28,43741,Patronato,1.0,36841,Ferro Carril Oeste,3.0
+11972921,28,7772,San Martín,4.0,3214,Chacarita Jrs.,0.0
+11972915,28,273657,Racing de Córdoba,3.0,213042,Deportivo Maipú,2.0
+11972925,28,3200,Nueva Chicago,1.0,3207,Colón,0.0
+12689919,28,36834,All Boys,0.0,4936,Quilmes,0.0
+11972942,29,34976,Atlético Rafaela,0.0,252726,Chaco For Ever,1.0
+11972935,29,93107,Estudiantes B.A.,,265787,Agropecuario,
+11972933,29,23950,SM Tucumán,1.0,7772,San Martín,0.0
+11972941,29,5292,Gimnasia J.,1.0,224646,Güemes,0.0
+11972949,29,36836,Aldosivi,0.0,188441,Gimnasia Mendoza,0.0
+11972946,29,43740,Almirante Brown,0.0,112499,Temperley,0.0
+11972934,29,3214,Chacarita Jrs.,1.0,53801,Guillermo Brown,0.0
+11972943,29,222120,Deportivo Madryn,0.0,52215,Defensores,0.0
+11972939,29,36841,Ferro Carril Oeste,2.0,273657,Racing de Córdoba,0.0
+11972940,29,213042,Deportivo Maipú,1.0,273715,Alvarado,1.0
+11972950,29,255425,Mitre,2.0,222126,Gimnasia y Tiro,1.0
+11972948,29,266694,Estudiantes R.C.,1.0,3200,Nueva Chicago,0.0
+11972937,29,4936,Quilmes,0.0,93513,Tristán Suárez,1.0
+11972947,29,3207,Colón,1.0,93109,Dep. Morón,0.0
+11972944,29,93515,Def. Unidos,1.0,4938,Almagro,1.0
+11972938,29,264945,San Miguel,2.0,43741,Patronato,4.0
+11972951,29,213361,San Telmo,4.0,3221,Arsenal,0.0
+11972936,29,201162,Talleres R.E.,2.0,36834,All Boys,2.0
+12770158,29,93107,Estudiantes B.A.,1.0,265787,Agropecuario,0.0
+11972945,29,53799,Atlanta,1.0,107201,Brown de Adrogué,0.0
+11972962,30,3200,Nueva Chicago,2.0,36836,Aldosivi,1.0
+11972958,30,265787,Agropecuario,2.0,3214,Chacarita Jrs.,0.0
+11972966,30,4938,Almagro,0.0,53799,Atlanta,0.0
+11972952,30,224646,Güemes,4.0,213042,Deportivo Maipú,0.0
+11972960,30,7772,San Martín,0.0,3221,Arsenal,0.0
+11972964,30,112499,Temperley,1.0,3207,Colón,0.0
+11972968,30,252726,Chaco For Ever,0.0,222120,Deportivo Madryn,1.0
+11972956,30,93513,Tristán Suárez,2.0,201162,Talleres R.E.,2.0
+11972969,30,213361,San Telmo,3.0,34976,Atlético Rafaela,2.0
+11972965,30,107201,Brown de Adrogué,2.0,43740,Almirante Brown,2.0
+11972967,30,52215,Defensores,2.0,93515,Def. Unidos,0.0
+11972959,30,53801,Guillermo Brown,0.0,23950,SM Tucumán,1.0
+11972953,30,273715,Alvarado,0.0,36841,Ferro Carril Oeste,2.0
+11972970,30,5292,Gimnasia J.,2.0,222126,Gimnasia y Tiro,0.0
+11972961,30,188441,Gimnasia Mendoza,1.0,255425,Mitre,1.0
+11972954,30,273657,Racing de Córdoba,1.0,264945,San Miguel,0.0
+11972957,30,36834,All Boys,0.0,93107,Estudiantes B.A.,0.0
+11972963,30,93109,Dep. Morón,2.0,266694,Estudiantes R.C.,1.0
+11972955,30,43741,Patronato,1.0,4936,Quilmes,1.0
+11972988,31,222126,Gimnasia y Tiro,1.0,188441,Gimnasia Mendoza,0.0
+11972983,31,43740,Almirante Brown,1.0,4938,Almagro,2.0
+11972985,31,266694,Estudiantes R.C.,0.0,112499,Temperley,0.0
+11972977,31,264945,San Miguel,2.0,273715,Alvarado,0.0
+11972975,31,201162,Talleres R.E.,1.0,43741,Patronato,0.0
+11972986,31,36836,Aldosivi,3.0,93109,Dep. Morón,0.0
+11972974,31,93107,Estudiantes B.A.,2.0,93513,Tristán Suárez,2.0
+11972989,31,34976,Atlético Rafaela,0.0,7772,San Martín,0.0
+11972971,31,3221,Arsenal,2.0,53801,Guillermo Brown,0.0
+11972982,31,53799,Atlanta,0.0,52215,Defensores,0.0
+11972978,31,36841,Ferro Carril Oeste,1.0,224646,Güemes,1.0
+11972981,31,93515,Def. Unidos,0.0,252726,Chaco For Ever,0.0
+11972973,31,3214,Chacarita Jrs.,0.0,36834,All Boys,1.0
+11972980,31,222120,Deportivo Madryn,1.0,213361,San Telmo,0.0
+11972979,31,213042,Deportivo Maipú,2.0,5292,Gimnasia J.,0.0
+11972987,31,255425,Mitre,0.0,3200,Nueva Chicago,0.0
+11972984,31,3207,Colón,0.0,107201,Brown de Adrogué,2.0
+11972976,31,4936,Quilmes,1.0,273657,Racing de Córdoba,0.0
+11972972,31,23950,SM Tucumán,1.0,265787,Agropecuario,0.0
+11973007,32,34976,Atlético Rafaela,0.0,222120,Deportivo Madryn,0.0
+11973003,32,4938,Almagro,0.0,3207,Colón,2.0
+11972991,32,224646,Güemes,2.0,264945,San Miguel,0.0
+11972995,32,93513,Tristán Suárez,0.0,3214,Chacarita Jrs.,0.0
+11973000,32,93109,Dep. Morón,1.0,255425,Mitre,2.0
+11972992,32,273715,Alvarado,0.0,4936,Quilmes,0.0
+11973002,32,107201,Brown de Adrogué,0.0,266694,Estudiantes R.C.,0.0
+11972999,32,3200,Nueva Chicago,2.0,222126,Gimnasia y Tiro,0.0
+11972998,32,53801,Guillermo Brown,0.0,7772,San Martín,2.0
+11972990,32,5292,Gimnasia J.,1.0,36841,Ferro Carril Oeste,0.0
+11972994,32,43741,Patronato,4.0,93107,Estudiantes B.A.,0.0
+11973008,32,213042,Deportivo Maipú,0.0,188441,Gimnasia Mendoza,0.0
+11972997,32,265787,Agropecuario,1.0,3221,Arsenal,0.0
+11972996,32,36834,All Boys,0.0,23950,SM Tucumán,1.0
+11973004,32,52215,Defensores,3.0,43740,Almirante Brown,0.0
+11973006,32,213361,San Telmo,2.0,93515,Def. Unidos,0.0
+11973001,32,112499,Temperley,0.0,36836,Aldosivi,0.0
+11973005,32,252726,Chaco For Ever,2.0,53799,Atlanta,1.0
+11972993,32,273657,Racing de Córdoba,1.0,201162,Talleres R.E.,1.0
+11973016,33,264945,San Miguel,1.0,5292,Gimnasia J.,1.0
+11973013,33,93107,Estudiantes B.A.,1.0,273657,Racing de Córdoba,0.0
+11973012,33,3214,Chacarita Jrs.,1.0,43741,Patronato,0.0
+11973014,33,201162,Talleres R.E.,0.0,273715,Alvarado,2.0
+11973019,33,53799,Atlanta,,213361,San Telmo,
+11973017,33,36841,Ferro Carril Oeste,,213042,Deportivo Maipú,
+11973021,33,3207,Colón,2.0,52215,Defensores,0.0
+11973015,33,4936,Quilmes,1.0,224646,Güemes,0.0
+11973027,33,222120,Deportivo Madryn,1.0,53801,Guillermo Brown,0.0
+11973010,33,3221,Arsenal,0.0,36834,All Boys,1.0
+11973018,33,93515,Def. Unidos,0.0,34976,Atlético Rafaela,0.0
+11973023,33,36836,Aldosivi,2.0,107201,Brown de Adrogué,0.0
+11973020,33,43740,Almirante Brown,3.0,252726,Chaco For Ever,0.0
+11973025,33,222126,Gimnasia y Tiro,1.0,93109,Dep. Morón,1.0
+11973026,33,188441,Gimnasia Mendoza,2.0,3200,Nueva Chicago,1.0
+11973009,33,7772,San Martín,0.0,265787,Agropecuario,0.0
+11973024,33,255425,Mitre,0.0,112499,Temperley,0.0
+11973022,33,266694,Estudiantes R.C.,1.0,4938,Almagro,0.0
+11973011,33,23950,SM Tucumán,1.0,93513,Tristán Suárez,0.0
+12867816,33,36841,Ferro Carril Oeste,2.0,213042,Deportivo Maipú,2.0
+12867817,33,53799,Atlanta,2.0,213361,San Telmo,0.0
+11973041,34,52215,Defensores,0.0,266694,Estudiantes R.C.,0.0
+11973032,34,273657,Racing de Córdoba,1.0,3214,Chacarita Jrs.,1.0
+11973030,34,224646,Güemes,2.0,201162,Talleres R.E.,1.0
+11973043,34,213361,San Telmo,0.0,43740,Almirante Brown,1.0
+11973040,34,4938,Almagro,1.0,36836,Aldosivi,2.0
+11973038,34,112499,Temperley,1.0,222126,Gimnasia y Tiro,1.0
+11973036,34,265787,Agropecuario,2.0,53801,Guillermo Brown,1.0
+11973042,34,252726,Chaco For Ever,0.0,3207,Colón,0.0
+11973035,34,36834,All Boys,4.0,7772,San Martín,0.0
+11973031,34,273715,Alvarado,0.0,93107,Estudiantes B.A.,1.0
+11973039,34,107201,Brown de Adrogué,2.0,255425,Mitre,2.0
+11973045,34,222120,Deportivo Madryn,3.0,93515,Def. Unidos,0.0
+11973034,34,93513,Tristán Suárez,2.0,3221,Arsenal,0.0
+11973029,34,5292,Gimnasia J.,0.0,4936,Quilmes,2.0
+11973028,34,213042,Deportivo Maipú,1.0,264945,San Miguel,1.0
+11973033,34,43741,Patronato,0.0,23950,SM Tucumán,1.0
+11973044,34,34976,Atlético Rafaela,2.0,53799,Atlanta,0.0
+11973046,34,36841,Ferro Carril Oeste,1.0,3200,Nueva Chicago,2.0
+11973037,34,93109,Dep. Morón,0.0,188441,Gimnasia Mendoza,1.0
+11973055,35,264945,San Miguel,0.0,36841,Ferro Carril Oeste,0.0
+11973060,35,36836,Aldosivi,0.0,52215,Defensores,1.0
+11973049,35,3221,Arsenal,2.0,43741,Patronato,0.0
+11973052,35,93107,Estudiantes B.A.,2.0,224646,Güemes,0.0
+11973056,35,53799,Atlanta,,222120,Deportivo Madryn,
+11973058,35,3207,Colón,0.0,213361,San Telmo,1.0
+11973048,35,7772,San Martín,3.0,93513,Tristán Suárez,2.0
+11973053,35,201162,Talleres R.E.,0.0,5292,Gimnasia J.,1.0
+11973047,35,53801,Guillermo Brown,0.0,36834,All Boys,0.0
+11973064,35,3200,Nueva Chicago,1.0,93109,Dep. Morón,1.0
+11973054,35,4936,Quilmes,3.0,213042,Deportivo Maipú,0.0
+11973051,35,3214,Chacarita Jrs.,2.0,273715,Alvarado,1.0
+11973065,35,93515,Def. Unidos,3.0,265787,Agropecuario,3.0
+11973062,35,222126,Gimnasia y Tiro,0.0,107201,Brown de Adrogué,1.0
+11973061,35,255425,Mitre,2.0,4938,Almagro,1.0
+11973059,35,266694,Estudiantes R.C.,0.0,252726,Chaco For Ever,0.0
+11973063,35,188441,Gimnasia Mendoza,1.0,112499,Temperley,2.0
+11973050,35,23950,SM Tucumán,2.0,273657,Racing de Córdoba,2.0
+11973057,35,43740,Almirante Brown,1.0,34976,Atlético Rafaela,2.0
+12928823,35,53799,Atlanta,1.0,222120,Deportivo Madryn,1.0
+11973069,36,224646,Güemes,2.0,3214,Chacarita Jrs.,1.0
+11973066,36,36841,Ferro Carril Oeste,0.0,4936,Quilmes,2.0
+11973077,36,4938,Almagro,0.0,222126,Gimnasia y Tiro,3.0
+11973078,36,52215,Defensores,0.0,255425,Mitre,0.0
+11973083,36,93515,Def. Unidos,0.0,53799,Atlanta,1.0
+11973084,36,264945,San Miguel,0.0,93109,Dep. Morón,1.0
+11973070,36,273715,Alvarado,0.0,23950,SM Tucumán,2.0
+11973074,36,36834,All Boys,,265787,Agropecuario,
+11973076,36,107201,Brown de Adrogué,,188441,Gimnasia Mendoza,
+11973071,36,273657,Racing de Córdoba,3.0,3221,Arsenal,1.0
+11973079,36,252726,Chaco For Ever,1.0,36836,Aldosivi,1.0
+11973082,36,222120,Deportivo Madryn,5.0,43740,Almirante Brown,1.0
+11973080,36,213361,San Telmo,2.0,266694,Estudiantes R.C.,0.0
+11973068,36,5292,Gimnasia J.,2.0,93107,Estudiantes B.A.,1.0
+11973067,36,213042,Deportivo Maipú,0.0,201162,Talleres R.E.,0.0
+11973081,36,34976,Atlético Rafaela,0.0,3207,Colón,0.0
+11973072,36,43741,Patronato,0.0,7772,San Martín,3.0
+11973075,36,112499,Temperley,0.0,3200,Nueva Chicago,0.0
+11973073,36,93513,Tristán Suárez,3.0,53801,Guillermo Brown,2.0
+12967299,36,36834,All Boys,3.0,265787,Agropecuario,0.0
+12966692,36,107201,Brown de Adrogué,0.0,188441,Gimnasia Mendoza,0.0
+11973095,37,3207,Colón,1.0,222120,Deportivo Madryn,1.0
+11973102,37,93109,Dep. Morón,,112499,Temperley,
+11973096,37,266694,Estudiantes R.C.,0.0,34976,Atlético Rafaela,0.0
+11973100,37,188441,Gimnasia Mendoza,3.0,4938,Almagro,1.0
+11973099,37,222126,Gimnasia y Tiro,1.0,52215,Defensores,0.0
+11973098,37,255425,Mitre,1.0,252726,Chaco For Ever,0.0
+11973101,37,3200,Nueva Chicago,1.0,107201,Brown de Adrogué,1.0
+11973097,37,36836,Aldosivi,2.0,213361,San Telmo,0.0
+11973089,37,23950,SM Tucumán,2.0,224646,Güemes,2.0
+11973094,37,43740,Almirante Brown,1.0,93515,Def. Unidos,1.0
+11973085,37,265787,Agropecuario,0.0,93513,Tristán Suárez,2.0
+11973088,37,3221,Arsenal,1.0,273715,Alvarado,0.0
+11973103,37,53799,Atlanta,0.0,36834,All Boys,1.0
+11973090,37,3214,Chacarita Jrs.,0.0,5292,Gimnasia J.,0.0
+11973091,37,93107,Estudiantes B.A.,2.0,213042,Deportivo Maipú,1.0
+11973086,37,53801,Guillermo Brown,1.0,43741,Patronato,3.0
+11973093,37,4936,Quilmes,1.0,264945,San Miguel,1.0
+11973087,37,7772,San Martín,1.0,273657,Racing de Córdoba,2.0
+11973092,37,201162,Talleres R.E.,0.0,36841,Ferro Carril Oeste,0.0
+13018858,37,93109,Dep. Morón,0.0,112499,Temperley,0.0
