@@ -42,6 +42,6 @@ El dashboard incluye las siguientes secciones clave:
 - **Rendimiento de jugadores**: Mapas de calor, estadísticas clave, y contribuciones individuales.  
 - **Eventos y detalles de partidos**: Resultados, incidencias, y datos de momentum.
 
-![Partido](images/screenshot_05.png)
+![Partido](images/screenshot_04.png)
 
-![Remates](images/screenshot_06.png)
+![Remates](images/screenshot_05.png)
