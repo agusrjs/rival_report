@@ -2,7 +2,7 @@
 
 Este proyecto proporciona un análisis detallado de los datos de la liga Primera B Nacional de Argentina, aunque podría utilizarse con distintos torneos en todo el mundo. Los datos fueron provistos por **Sofascore**, obtenidos mediante web scraping. Tanto esto como para el procesamiento se realizó en Python. Los resultados se visualizan en un dashboard interactivo desarrollado en **Power BI**. El panel incluye secciones de análisis propio de cada equipo, más allá de los proveedores de datos. Se muestra un ejemplo de esto seleccionando el equipo **San Telmo**.
 
-![Liga](images/screenshot00.png)
+![Liga](images/screenshot_00.png)
 
 ## **Objetivo del proyecto**
 
@@ -13,9 +13,9 @@ El propósito principal es realizar un análisis detallado del desempeño de los
 - **Eventos y partidos**: Resúmenes, alineaciones, y estadísticas de partidos.
 - **Visualizaciones interactivas**: Métricas clave presentadas de manera visual para facilitar la toma de decisiones.
 
-![Plantel](images/screenshot01.png)
+![Plantel](images/screenshot_01.png)
 
-![Equipo](images/screenshot02.png)
+![Equipo](images/screenshot_02.png)
 
 ## **Estructura del proceso**
 
@@ -32,7 +32,7 @@ El propósito principal es realizar un análisis detallado del desempeño de los
    - Se crean métricas y gráficos personalizados.
    - Se implementan filtros para facilitar el análisis específico de San Telmo y otros equipos.
 
-![Alineaciones](images/screenshot03.png)
+![Alineaciones](images/screenshot_03.png)
 
 ## **Visualización del dashboard**
 
@@ -42,6 +42,6 @@ El dashboard incluye las siguientes secciones clave:
 - **Rendimiento de jugadores**: Mapas de calor, estadísticas clave, y contribuciones individuales.  
 - **Eventos y detalles de partidos**: Resultados, incidencias, y datos de momentum.
 
-![Partido](images/screenshot05.png)
+![Partido](images/screenshot_05.png)
 
-![Remates](images/screenshot06.png)
+![Remates](images/screenshot_06.png)
